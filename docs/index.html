@@ -2,20 +2,330 @@
 <html lang="es">
 <head>
 <meta charset="UTF-8">
-<title>JUMBOBOT – Cargando...</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jumbo Price Tracker – Seguimiento diario de precios</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
 <style>
-  body { background: #0a0f0a; color: #e2f0e2; font-family: monospace;
-         display: flex; align-items: center; justify-content: center; height: 100vh; margin: 0; }
-  .msg { text-align: center; }
-  .badge { background: #007a33; padding: 0.5rem 1.5rem; border-radius: 8px;
-           font-size: 1.5rem; font-weight: bold; margin-bottom: 1rem; display: inline-block; }
+  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;700&family=IBM+Plex+Sans:wght@400;600;700&display=swap');
+  :root {
+    --bg: #0a0f0a; --surface: #111811; --border: #1e2e1e;
+    --accent: #00a742; --accent2: #007a33; --red: #ef4444; --green: #22c55e;
+    --text: #e2f0e2; --muted: #5a7a5a;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--text); font-family: 'IBM Plex Sans', sans-serif; }
+  header {
+    background: var(--surface); border-bottom: 2px solid var(--accent2);
+    padding: 1.5rem 2rem; display: flex; justify-content: space-between;
+    align-items: center; flex-wrap: wrap; gap: 1rem;
+  }
+  .logo-area { display: flex; align-items: center; gap: 1rem; }
+  .jumbo-badge {
+    background: var(--accent2); color: #fff; font-weight: 700;
+    padding: 0.4rem 1rem; border-radius: 8px; font-size: 1.1rem;
+    letter-spacing: 0.05em; font-family: 'IBM Plex Sans', sans-serif;
+  }
+  header h1 { font-family: 'IBM Plex Mono', monospace; font-size: 1.1rem; color: var(--accent); }
+  .fecha { font-size: 0.8rem; color: var(--muted); font-family: 'IBM Plex Mono', monospace; }
+  .container { max-width: 1200px; margin: 0 auto; padding: 2rem 1rem; }
+  .hero { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin-bottom: 2rem; }
+  .stat-card {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 12px; padding: 1.5rem; text-align: center;
+    transition: border-color 0.2s;
+  }
+  .stat-card:hover { border-color: var(--accent2); }
+  .stat-card .label { font-size: 0.72rem; text-transform: uppercase; letter-spacing: 0.1em; color: var(--muted); margin-bottom: 0.5rem; }
+  .stat-card .value { font-family: 'IBM Plex Mono', monospace; font-size: 2rem; font-weight: 700; }
+  .stat-card .sub { font-size: 0.8rem; color: var(--muted); margin-top: 0.3rem; }
+  .section { margin-bottom: 2.5rem; }
+  .section-title {
+    font-family: 'IBM Plex Mono', monospace; font-size: 0.75rem;
+    text-transform: uppercase; letter-spacing: 0.15em; color: var(--muted);
+    margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px solid var(--border);
+  }
+  .tabs { display: flex; gap: 0.5rem; margin-bottom: 1.5rem; flex-wrap: wrap; }
+  .tab {
+    padding: 0.4rem 1rem; border-radius: 6px; border: 1px solid var(--border);
+    background: transparent; color: var(--muted); cursor: pointer;
+    font-family: 'IBM Plex Mono', monospace; font-size: 0.8rem; transition: all 0.2s;
+  }
+  .tab.active, .tab:hover { background: var(--accent2); color: #fff; border-color: var(--accent2); }
+  .chart-container {
+    background: var(--surface); border: 1px solid var(--border);
+    border-radius: 12px; padding: 1.5rem; position: relative; height: 320px;
+  }
+  .table-wrap { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.88rem; }
+  th {
+    background: var(--surface); padding: 0.7rem 1rem; text-align: left;
+    font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.08em;
+    color: var(--muted); border-bottom: 1px solid var(--border);
+  }
+  td { padding: 0.65rem 1rem; border-bottom: 1px solid var(--border); }
+  tr:hover td { background: rgba(0,167,66,0.04); }
+  .rank-num { font-family: 'IBM Plex Mono', monospace; color: var(--muted); font-size: 0.75rem; }
+  .rank-tabs { display: flex; gap: 0.5rem; margin-bottom: 1rem; }
+  .rank-tab {
+    padding: 0.35rem 0.9rem; border-radius: 6px; border: 1px solid var(--border);
+    background: transparent; color: var(--muted); cursor: pointer; font-size: 0.8rem; transition: all 0.2s;
+  }
+  .rank-tab.active { background: var(--surface); color: var(--text); border-color: var(--accent2); }
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }
+  @media (max-width: 700px) { .grid2 { grid-template-columns: 1fr; } }
+  footer {
+    text-align: center; padding: 2rem; color: var(--muted);
+    font-size: 0.75rem; border-top: 1px solid var(--border);
+    font-family: 'IBM Plex Mono', monospace;
+  }
+  .info-banner {
+    background: rgba(0,122,51,0.1); border: 1px solid var(--accent2);
+    border-radius: 8px; padding: 0.8rem 1.2rem; margin-bottom: 1.5rem;
+    font-size: 0.82rem; color: var(--accent);
+  }
 </style>
 </head>
 <body>
-<div class="msg">
-  <div class="badge">🐘 JUMBOBOT</div>
-  <p style="color:#5a7a5a;margin-top:1rem">El sitio se generará tras el primer scraping.<br>
-  Ejecutá el workflow "Scraper Diario Jumbo" manualmente desde GitHub Actions.</p>
+<header>
+  <div class="logo-area">
+    <div class="jumbo-badge">🐘 JUMBO</div>
+    <div>
+      <h1>PRICE TRACKER</h1>
+      <div style="color:var(--muted);font-size:0.78rem;margin-top:0.2rem">Seguimiento diario de precios · jumbo.com.ar</div>
+    </div>
+  </div>
+  <div class="fecha">Última actualización: 20/02/2026 13:35</div>
+</header>
+
+<div class="container">
+  <div class="info-banner">
+    📊 Datos relevados automáticamente de <strong>jumbo.com.ar</strong> vía GitHub Actions.
+    Los precios pueden variar según sucursal y disponibilidad. No afiliado con Cencosud/Jumbo.
+  </div>
+
+  <div class="hero">
+    <div class="stat-card">
+      <div class="label">Variación Hoy</div>
+      <div class="value" style="color:#888">—</div>
+      <div class="sub">58531 productos relevados</div>
+    </div>
+    <div class="stat-card">
+      <div class="label">Variación 30 días</div>
+      <div class="value" style="color:#888">—</div>
+    </div>
+    <div class="stat-card">
+      <div class="label">Variación 1 año</div>
+      <div class="value" style="color:#888">—</div>
+    </div>
+    <div class="stat-card">
+      <div class="label">Movimiento Hoy</div>
+      <div style="display:flex;justify-content:center;gap:1rem;margin-top:0.5rem">
+        <div><div style="color:#ef4444;font-size:1.3rem;font-weight:700;font-family:'IBM Plex Mono',monospace">⬆ 0</div><div style="font-size:0.7rem;color:var(--muted)">Subieron</div></div>
+        <div><div style="color:#22c55e;font-size:1.3rem;font-weight:700;font-family:'IBM Plex Mono',monospace">⬇ 0</div><div style="font-size:0.7rem;color:var(--muted)">Bajaron</div></div>
+        <div><div style="color:#888;font-size:1.3rem;font-weight:700;font-family:'IBM Plex Mono',monospace">➡ 0</div><div style="font-size:0.7rem;color:var(--muted)">Igual</div></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">📈 Evolución de precios</div>
+    <div class="tabs">
+      <button class="tab active" onclick="cambiarPeriodo('7d',this)">7 días</button>
+      <button class="tab" onclick="cambiarPeriodo('30d',this)">30 días</button>
+      <button class="tab" onclick="cambiarPeriodo('6m',this)">6 meses</button>
+      <button class="tab" onclick="cambiarPeriodo('1y',this)">1 año</button>
+    </div>
+    <div class="chart-container"><canvas id="chartGeneral"></canvas></div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">📊 Evolución por categoría</div>
+    <div id="selectorCat" style="margin-bottom:1rem;display:flex;gap:0.5rem;flex-wrap:wrap"></div>
+    <div class="chart-container"><canvas id="chartCat"></canvas></div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">🗂 Variación por categoría — hoy</div>
+    <div class="table-wrap">
+      <table>
+        <thead><tr><th>Categoría</th><th>Variación %</th><th>Subieron</th><th>Bajaron</th><th>Total</th></tr></thead>
+        <tbody>
+        <tr>
+          <td>Almacén</td>
+          <td style="color:#888;font-weight:700;font-family:'IBM Plex Mono',monospace">0.00%</td>
+          <td style="color:#ef4444">0</td>
+          <td style="color:#22c55e">0</td>
+          <td style="color:#888">0</td>
+        </tr>
+        <tr>
+          <td>Congelados</td>
+          <td style="color:#888;font-weight:700;font-family:'IBM Plex Mono',monospace">0.00%</td>
+          <td style="color:#ef4444">0</td>
+          <td style="color:#22c55e">0</td>
+          <td style="color:#888">0</td>
+        </tr>
+        <tr>
+          <td>Limpieza</td>
+          <td style="color:#888;font-weight:700;font-family:'IBM Plex Mono',monospace">0.00%</td>
+          <td style="color:#ef4444">0</td>
+          <td style="color:#22c55e">0</td>
+          <td style="color:#888">0</td>
+        </tr></tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-title">🏆 Rankings de productos</div>
+    <div class="rank-tabs">
+      <button class="rank-tab active" onclick="mostrarRanking('dia',this)">📅 Hoy</button>
+      <button class="rank-tab" onclick="mostrarRanking('mes',this)">📆 30 días</button>
+      <button class="rank-tab" onclick="mostrarRanking('anio',this)">📅 1 año</button>
+    </div>
+    <div class="grid2">
+      <div>
+        <div style="font-size:0.8rem;color:var(--muted);margin-bottom:0.7rem">🔥 Los que más SUBIERON</div>
+        <div class="table-wrap">
+          <table><thead><tr><th>#</th><th>Producto</th><th>Var %</th><th>Precio</th></tr></thead>
+          <tbody id="tabla-sube"></tbody></table>
+        </div>
+      </div>
+      <div>
+        <div style="font-size:0.8rem;color:var(--muted);margin-bottom:0.7rem">📉 Los que más BAJARON hoy</div>
+        <div class="table-wrap">
+          <table><thead><tr><th>#</th><th>Producto</th><th>Var %</th><th>Precio</th></tr></thead>
+          <tbody id="tabla-baja"></tbody></table>
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
+
+<footer>
+  Datos relevados de jumbo.com.ar · Actualización automática diaria via GitHub Actions<br>
+  JUMBOBOT no está afiliado con Cencosud S.A. · Uso educativo y de transparencia de precios
+</footer>
+
+<script>
+const GRAFICOS   = {"7d": {"total": [], "categorias": {}}, "30d": {"total": [], "categorias": {}}, "6m": {"total": [], "categorias": {}}, "1y": {"total": [], "categorias": {}}};
+const RANK_DIA   = [];
+const RANK_MES   = [];
+const RANK_ANIO  = [];
+const RANK_BAJA  = [];
+const CATS_DEFAULT = ["Almac\u00e9n", "Frescos", "Congelados", "Bebidas Con Alcohol", "Bebidas Sin Alcohol", "Limpieza", "Cuidado Personal"];
+
+let chartGeneral = null, chartCat = null, catActual = null;
+
+function cambiarPeriodo(periodo, btn) {
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  btn.classList.add('active');
+  renderChartGeneral(periodo);
+  renderSelectorCats(periodo);
+}
+
+function renderChartGeneral(periodo) {
+  const datos = GRAFICOS[periodo]?.total || [];
+  if (chartGeneral) chartGeneral.destroy();
+  const ctx = document.getElementById('chartGeneral').getContext('2d');
+  chartGeneral = new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels: datos.map(d => d.fecha),
+      datasets: [{ label: 'Variación acumulada %', data: datos.map(d => d.pct),
+        borderColor: '#00a742', backgroundColor: 'rgba(0,167,66,0.08)',
+        borderWidth: 2, pointRadius: datos.length > 60 ? 0 : 3, tension: 0.3, fill: true }]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { ticks: { color: '#5a7a5a', maxTicksLimit: 8 }, grid: { color: '#1e2e1e' } },
+        y: { ticks: { color: '#5a7a5a', callback: v => (v>0?'+':'')+v.toFixed(1)+'%' },
+              grid: { color: '#1e2e1e' },
+              afterDataLimits: a => { if(a.min>0)a.min=0; if(a.max<0)a.max=0; } }
+      }
+    }
+  });
+}
+
+function renderSelectorCats(periodo) {
+  const catsJSON = Object.keys(GRAFICOS[periodo]?.categorias || {});
+  const cats = catsJSON.length ? catsJSON : CATS_DEFAULT;
+  const cont = document.getElementById('selectorCat');
+  cont.innerHTML = '';
+  if (!catActual || !cats.includes(catActual)) catActual = cats[0];
+  cats.forEach(cat => {
+    const btn = document.createElement('button');
+    btn.className = 'tab' + (cat === catActual ? ' active' : '');
+    btn.textContent = cat;
+    btn.onclick = () => {
+      catActual = cat;
+      document.querySelectorAll('#selectorCat .tab').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      renderChartCat(periodo, cat);
+    };
+    cont.appendChild(btn);
+  });
+  renderChartCat(periodo, catActual);
+}
+
+function renderChartCat(periodo, cat) {
+  const datos = GRAFICOS[periodo]?.categorias?.[cat] || [];
+  if (chartCat) chartCat.destroy();
+  const ctx = document.getElementById('chartCat').getContext('2d');
+  chartCat = new Chart(ctx, {
+    type: 'line',
+    data: {
+      labels: datos.map(d => d.fecha),
+      datasets: [{ label: cat + ' — variación %', data: datos.map(d => d.pct),
+        borderColor: '#34d399', backgroundColor: 'rgba(52,211,153,0.08)',
+        borderWidth: 2, pointRadius: datos.length > 60 ? 0 : 3, tension: 0.3, fill: true }]
+    },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      plugins: { legend: { display: false } },
+      scales: {
+        x: { ticks: { color: '#5a7a5a', maxTicksLimit: 8 }, grid: { color: '#1e2e1e' } },
+        y: { ticks: { color: '#5a7a5a', callback: v => (v>0?'+':'')+v.toFixed(1)+'%' },
+              grid: { color: '#1e2e1e' },
+              afterDataLimits: a => { if(a.min>0)a.min=0; if(a.max<0)a.max=0; } }
+      }
+    }
+  });
+}
+
+function mostrarRanking(periodo, btn) {
+  document.querySelectorAll('.rank-tab').forEach(t => t.classList.remove('active'));
+  btn.classList.add('active');
+  const data = {dia:RANK_DIA, mes:RANK_MES, anio:RANK_ANIO}[periodo] || [];
+  renderTablaRanking('tabla-sube', data, false);
+  if (periodo==='dia') renderTablaRanking('tabla-baja', RANK_BAJA, true);
+  else document.getElementById('tabla-baja').innerHTML = '<tr><td colspan="4" style="color:var(--muted);text-align:center;padding:1rem">Solo disponible para hoy</td></tr>';
+}
+
+function renderTablaRanking(id, data, esBaja) {
+  const tbody = document.getElementById(id);
+  if (!data.length) {
+    tbody.innerHTML = '<tr><td colspan="4" style="color:var(--muted);text-align:center;padding:1rem">Sin datos aún — el tracker necesita al menos 2 días de datos</td></tr>';
+    return;
+  }
+  tbody.innerHTML = data.slice(0,20).map((p,i) => {
+    const color = esBaja ? '#22c55e' : '#ef4444';
+    const signo = p.diff_pct > 0 ? '+' : '';
+    const nombre = (p.nombre||'').substring(0,35);
+    const precio = p.precio_hoy ? '$'+Number(p.precio_hoy).toLocaleString('es-AR') : '—';
+    return `<tr>
+      <td class="rank-num">${i+1}</td>
+      <td title="${p.nombre}"><div>${nombre}</div><div style="font-size:0.7rem;color:var(--muted)">${p.marca||''} · ${(p.categoria||'').substring(0,20)}</div></td>
+      <td style="color:${color};font-weight:700;font-family:'IBM Plex Mono',monospace">${signo}${p.diff_pct?.toFixed(1)}%</td>
+      <td style="font-family:'IBM Plex Mono',monospace;font-size:0.82rem">${precio}</td>
+    </tr>`;
+  }).join('');
+}
+
+renderChartGeneral('7d');
+renderSelectorCats('7d');
+mostrarRanking('dia', document.querySelector('.rank-tab'));
+</script>
 </body>
 </html>
