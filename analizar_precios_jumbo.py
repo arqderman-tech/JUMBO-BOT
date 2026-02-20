@@ -24,12 +24,21 @@ PRECIOS_COMPACTO = DIR_DATA / "precios_compacto.csv"
 # que devuelve el árbol de Jumbo (el scraper los guarda en cat_principal)
 ORDEN_CATS = [
     "Almacén",
-    "Bebidas Con Alcohol",
-    "Bebidas Sin Alcohol",
-    "Frescos",
+    "Bebidas",
     "Congelados",
+    "Lácteos",
+    "Quesos y Fiambres",
+    "Frutas y Verduras",
+    "Carnes",
+    "Rotiseria",
+    "Panaderia y Pasteleria",
     "Limpieza",
-    "Cuidado Personal",
+    "Perfumería",
+    "Mascotas",
+    "Hogar y textil",
+    "Mundo Bebe",
+    "Electro",
+    "Tiempo Libre",
 ]
 
 PERIODOS = {"7d": 7, "30d": 30, "6m": 180, "1y": 365}
