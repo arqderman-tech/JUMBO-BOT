@@ -13,9 +13,22 @@ DIR_DATA = Path("data")
 DIR_DOCS = Path("docs")
 
 ORDEN_CATS = [
-    "Almacén", "Frescos", "Congelados",
-    "Bebidas Con Alcohol", "Bebidas Sin Alcohol",
-    "Limpieza", "Cuidado Personal",
+    "Almacén",
+    "Bebidas",
+    "Congelados",
+    "Lácteos",
+    "Quesos y Fiambres",
+    "Frutas y Verduras",
+    "Carnes",
+    "Rotiseria",
+    "Panaderia y Pasteleria",
+    "Limpieza",
+    "Perfumería",
+    "Mascotas",
+    "Hogar y textil",
+    "Mundo Bebe",
+    "Electro",
+    "Tiempo Libre",
 ]
 
 
