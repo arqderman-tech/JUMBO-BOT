@@ -1,0 +1,57 @@
+name: Scraper Diario Jumbo
+
+on:
+  schedule:
+    - cron: '0 12 * * *'   # 9:00 AM Argentina (UTC-3)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scraper:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30      # era 90 — con el scraper paralelo sobra con 30
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: pip install requests pandas tweepy
+
+      - name: Crear directorios
+        run: mkdir -p output_jumbo data docs
+
+      - name: Correr scraper
+        run: python jumbo_scraper.py
+
+      - name: Analizar precios
+        run: python analizar_precios_jumbo.py
+
+      - name: Generar web
+        run: python generar_web_jumbo.py
+
+      - name: Commit y push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ docs/
+          git diff --staged --quiet || (git commit -m "🐘 Datos Jumbo $(date +'%Y-%m-%d')" && git push)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publicar en X
+        run: python tweetear_jumbo.py
+        continue-on-error: true
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+          WEB_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
