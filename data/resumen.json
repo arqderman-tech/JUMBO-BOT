@@ -1,34 +1,216 @@
 {
-  "fecha_actualizacion": "2026-02-20",
+  "fecha_actualizacion": "2026-02-21",
   "total_productos": 58531,
-  "variacion_dia": null,
+  "variacion_dia": 0.2,
   "variacion_mes": null,
   "variacion_anio": null,
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 0,
+  "productos_subieron_dia": 333,
+  "productos_bajaron_dia": 203,
+  "productos_sin_cambio_dia": 57987,
   "categorias_dia": [
     {
       "categoria": "Almacén",
-      "variacion_pct_promedio": 0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 0
+      "variacion_pct_promedio": 0.74,
+      "productos_subieron": 70,
+      "productos_bajaron": 42,
+      "total_productos": 8172
+    },
+    {
+      "categoria": "Bebidas",
+      "variacion_pct_promedio": 0.03,
+      "productos_subieron": 10,
+      "productos_bajaron": 16,
+      "total_productos": 2457
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 0
+      "variacion_pct_promedio": 0.29,
+      "productos_subieron": 13,
+      "productos_bajaron": 2,
+      "total_productos": 445
+    },
+    {
+      "categoria": "Lácteos",
+      "variacion_pct_promedio": 0.89,
+      "productos_subieron": 15,
+      "productos_bajaron": 19,
+      "total_productos": 1005
+    },
+    {
+      "categoria": "Quesos y Fiambres",
+      "variacion_pct_promedio": 0.27,
+      "productos_subieron": 26,
+      "productos_bajaron": 17,
+      "total_productos": 1548
+    },
+    {
+      "categoria": "Frutas y Verduras",
+      "variacion_pct_promedio": 1.6,
+      "productos_subieron": 28,
+      "productos_bajaron": 39,
+      "total_productos": 1101
+    },
+    {
+      "categoria": "Carnes",
+      "variacion_pct_promedio": 1.95,
+      "productos_subieron": 15,
+      "productos_bajaron": 2,
+      "total_productos": 821
+    },
+    {
+      "categoria": "Rotiseria",
+      "variacion_pct_promedio": -0.6,
+      "productos_subieron": 29,
+      "productos_bajaron": 21,
+      "total_productos": 193
+    },
+    {
+      "categoria": "Panaderia y Pasteleria",
+      "variacion_pct_promedio": 0.08,
+      "productos_subieron": 18,
+      "productos_bajaron": 16,
+      "total_productos": 383
     },
     {
       "categoria": "Limpieza",
+      "variacion_pct_promedio": -0.01,
+      "productos_subieron": 3,
+      "productos_bajaron": 7,
+      "total_productos": 2155
+    },
+    {
+      "categoria": "Perfumería",
+      "variacion_pct_promedio": 0.14,
+      "productos_subieron": 79,
+      "productos_bajaron": 16,
+      "total_productos": 3644
+    },
+    {
+      "categoria": "Mascotas",
       "variacion_pct_promedio": 0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 0
+      "total_productos": 229
+    },
+    {
+      "categoria": "Hogar y textil",
+      "variacion_pct_promedio": 0.01,
+      "productos_subieron": 24,
+      "productos_bajaron": 0,
+      "total_productos": 20704
+    },
+    {
+      "categoria": "Mundo Bebe",
+      "variacion_pct_promedio": -0.4,
+      "productos_subieron": 1,
+      "productos_bajaron": 6,
+      "total_productos": 152
+    },
+    {
+      "categoria": "Electro",
+      "variacion_pct_promedio": 0,
+      "productos_subieron": 2,
+      "productos_bajaron": 0,
+      "total_productos": 2975
+    },
+    {
+      "categoria": "Tiempo Libre",
+      "variacion_pct_promedio": 0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 12539
     }
   ],
-  "ranking_baja_dia": []
+  "ranking_baja_dia": [
+    {
+      "sku_id": "148526",
+      "nombre": "Endivias Flamingo 300 Gr",
+      "marca": "FLAMINGO",
+      "categoria": "Verduras Empaquetadas",
+      "precio_hoy": 7799.0,
+      "precio_ref": 100031.57,
+      "diff_pct": -92.20346136724636
+    },
+    {
+      "sku_id": "394949",
+      "nombre": "Jabon Huggies 75g",
+      "marca": "HUGGIES",
+      "categoria": "Higiene del Bebé",
+      "precio_hoy": 2050.0,
+      "precio_ref": 17200.0,
+      "diff_pct": -88.0813953488372
+    },
+    {
+      "sku_id": "330894",
+      "nombre": "Galletita Tita Clásica 19 Gr",
+      "marca": "TITA",
+      "categoria": "Bocaditos y Postres",
+      "precio_hoy": 1150.0,
+      "precio_ref": 5250.0,
+      "diff_pct": -78.0952380952381
+    },
+    {
+      "sku_id": "2467",
+      "nombre": "Baguette De Salvado Elaboracion local Baguette De Salvado",
+      "marca": "LA PANADERIA",
+      "categoria": "Panificados",
+      "precio_hoy": 344.99,
+      "precio_ref": 1400.0,
+      "diff_pct": -75.35785714285714
+    },
+    {
+      "sku_id": "10382",
+      "nombre": "Ensalada Nutritiva Song 250 Gr",
+      "marca": "SONG",
+      "categoria": "Verduras Procesadas y Ensaladas Listas",
+      "precio_hoy": 2999.0,
+      "precio_ref": 10002.29,
+      "diff_pct": -70.01686613765447
+    },
+    {
+      "sku_id": "20405",
+      "nombre": "Ensalada Oriental Song 500 Gr",
+      "marca": "SONG",
+      "categoria": "Verduras Procesadas y Ensaladas Listas",
+      "precio_hoy": 3199.0,
+      "precio_ref": 9996.99,
+      "diff_pct": -68.00036811080135
+    },
+    {
+      "sku_id": "19826",
+      "nombre": "Rúcula Roco 1 U",
+      "marca": "ROCO",
+      "categoria": "Verduras Empaquetadas",
+      "precio_hoy": 3799.0,
+      "precio_ref": 10001.77,
+      "diff_pct": -62.016723040021915
+    },
+    {
+      "sku_id": "167899",
+      "nombre": "Zapallito Largo Por Kg",
+      "marca": "VERDULERIA PROPIA",
+      "categoria": "Hortalizas Livianas",
+      "precio_hoy": 1599.0,
+      "precio_ref": 3899.99,
+      "diff_pct": -58.999894871525306
+    },
+    {
+      "sku_id": "31773",
+      "nombre": "Asado Del Centro De Novillito Por Kg",
+      "marca": "SIN MARCA",
+      "categoria": "Novillito",
+      "precio_hoy": 9602.76,
+      "precio_ref": 22569.0,
+      "diff_pct": -57.45154858434135
+    },
+    {
+      "sku_id": "15998",
+      "nombre": "Medallon De Bife De Chorizo Premium",
+      "marca": "LA HACIENDA",
+      "categoria": "La Hacienda Premium",
+      "precio_hoy": 20872.69,
+      "precio_ref": 41499.0,
+      "diff_pct": -49.70314947348129
+    }
+  ]
 }
