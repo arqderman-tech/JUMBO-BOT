@@ -1,182 +1,182 @@
 [
   {
-    "sku_id": "148526",
-    "nombre": "Endivias Flamingo 300 Gr",
-    "marca": "FLAMINGO",
-    "categoria": "Verduras Empaquetadas",
-    "precio_hoy": 7799.0,
-    "precio_ref": 100031.57,
-    "diff_pct": -92.20346136724636
-  },
-  {
-    "sku_id": "394949",
-    "nombre": "Jabon Huggies 75g",
-    "marca": "HUGGIES",
-    "categoria": "Higiene del Bebé",
-    "precio_hoy": 2050.0,
-    "precio_ref": 17200.0,
-    "diff_pct": -88.0813953488372
-  },
-  {
-    "sku_id": "330894",
-    "nombre": "Galletita Tita Clásica 19 Gr",
-    "marca": "TITA",
-    "categoria": "Bocaditos y Postres",
-    "precio_hoy": 1150.0,
-    "precio_ref": 5250.0,
-    "diff_pct": -78.0952380952381
-  },
-  {
-    "sku_id": "2467",
-    "nombre": "Baguette De Salvado Elaboracion local Baguette De Salvado",
-    "marca": "LA PANADERIA",
-    "categoria": "Panificados",
-    "precio_hoy": 344.99,
-    "precio_ref": 1400.0,
-    "diff_pct": -75.35785714285714
-  },
-  {
-    "sku_id": "10382",
-    "nombre": "Ensalada Nutritiva Song 250 Gr",
-    "marca": "SONG",
-    "categoria": "Verduras Procesadas y Ensaladas Listas",
-    "precio_hoy": 2999.0,
-    "precio_ref": 10002.29,
-    "diff_pct": -70.01686613765447
-  },
-  {
-    "sku_id": "20405",
-    "nombre": "Ensalada Oriental Song 500 Gr",
-    "marca": "SONG",
-    "categoria": "Verduras Procesadas y Ensaladas Listas",
-    "precio_hoy": 3199.0,
-    "precio_ref": 9996.99,
-    "diff_pct": -68.00036811080135
-  },
-  {
-    "sku_id": "19826",
-    "nombre": "Rúcula Roco 1 U",
-    "marca": "ROCO",
-    "categoria": "Verduras Empaquetadas",
-    "precio_hoy": 3799.0,
-    "precio_ref": 10001.77,
-    "diff_pct": -62.016723040021915
-  },
-  {
-    "sku_id": "167899",
-    "nombre": "Zapallito Largo Por Kg",
+    "sku_id": "30515",
+    "nombre": "Fruta Del Dragón",
     "marca": "VERDULERIA PROPIA",
-    "categoria": "Hortalizas Livianas",
-    "precio_hoy": 1599.0,
-    "precio_ref": 3899.99,
-    "diff_pct": -58.999894871525306
+    "categoria": "Frutas Sueltas",
+    "precio_hoy": 8299.0,
+    "precio_ref": 30677.05,
+    "diff_pct": -72.94720320239398
   },
   {
-    "sku_id": "31773",
-    "nombre": "Asado Del Centro De Novillito Por Kg",
-    "marca": "SIN MARCA",
-    "categoria": "Novillito",
-    "precio_hoy": 9602.76,
-    "precio_ref": 22569.0,
-    "diff_pct": -57.45154858434135
+    "sku_id": "247560",
+    "nombre": "Osobuco",
+    "marca": "LA HACIENDA",
+    "categoria": "Novillito Especial",
+    "precio_hoy": 3827.93,
+    "precio_ref": 10915.0,
+    "diff_pct": -64.92963811268896
   },
   {
-    "sku_id": "15998",
-    "nombre": "Medallon De Bife De Chorizo Premium",
+    "sku_id": "247573",
+    "nombre": "Bife De Chorizo",
+    "marca": "LA HACIENDA",
+    "categoria": "Novillito Especial",
+    "precio_hoy": 11622.39,
+    "precio_ref": 30619.0,
+    "diff_pct": -62.04190208693948
+  },
+  {
+    "sku_id": "246973",
+    "nombre": "Paleta Churrasco",
+    "marca": "LA HACIENDA",
+    "categoria": "Novillito Especial",
+    "precio_hoy": 7022.47,
+    "precio_ref": 17005.0,
+    "diff_pct": -58.70349897089091
+  },
+  {
+    "sku_id": "20066",
+    "nombre": "Entraña Premium La Hacienda",
     "marca": "LA HACIENDA",
     "categoria": "La Hacienda Premium",
-    "precio_hoy": 20872.69,
-    "precio_ref": 41499.0,
-    "diff_pct": -49.70314947348129
+    "precio_hoy": 20937.09,
+    "precio_ref": 48499.0,
+    "diff_pct": -56.82985216190024
   },
   {
-    "sku_id": "16944",
-    "nombre": "Rúcula Sueño Verde 100 Gr",
-    "marca": "SUEÑO VERDE",
-    "categoria": "Verduras Empaquetadas",
-    "precio_hoy": 3899.0,
-    "precio_ref": 7576.59,
-    "diff_pct": -48.53885455066197
+    "sku_id": "247557",
+    "nombre": "Asado Del Centro",
+    "marca": "LA HACIENDA",
+    "categoria": "Novillito Especial",
+    "precio_hoy": 10568.09,
+    "precio_ref": 23869.0,
+    "diff_pct": -55.72462189450752
   },
   {
-    "sku_id": "43027",
-    "nombre": "Portobellos Hongos Del Pilar",
-    "marca": "HONGOS DEL PILAR",
-    "categoria": "Verduras Empaquetadas",
-    "precio_hoy": 5799.0,
-    "precio_ref": 9989.77,
-    "diff_pct": -41.95061547963567
+    "sku_id": "15927",
+    "nombre": "Asado Americano Premium",
+    "marca": "LA HACIENDA",
+    "categoria": "La Hacienda Premium",
+    "precio_hoy": 12592.69,
+    "precio_ref": 28335.0,
+    "diff_pct": -55.55782601023469
   },
   {
-    "sku_id": "10197",
-    "nombre": "Moras General Frescas 1 U",
-    "marca": "GERGAL",
+    "sku_id": "318361",
+    "nombre": "Tomahawk Premium La Hacienda",
+    "marca": "LA HACIENDA",
+    "categoria": "La Hacienda Premium",
+    "precio_hoy": 17180.83,
+    "precio_ref": 38399.0,
+    "diff_pct": -55.257090028386145
+  },
+  {
+    "sku_id": "5131",
+    "nombre": "Asado De Novillito Gondola Bandeja",
+    "marca": "LA HACIENDA",
+    "categoria": "Novillito",
+    "precio_hoy": 6124.99,
+    "precio_ref": 11449.0,
+    "diff_pct": -46.50196523713861
+  },
+  {
+    "sku_id": "10211",
+    "nombre": "Brócoli",
+    "marca": "SIN MARCA",
+    "categoria": "Verduras Frescas de Hoja",
+    "precio_hoy": 3227.69,
+    "precio_ref": 5999.0,
+    "diff_pct": -46.19619936656109
+  },
+  {
+    "sku_id": "63516",
+    "nombre": "Repollo Blanco Por Kg",
+    "marca": "VERDULERIA PROPIA",
+    "categoria": "Verduras Frescas de Hoja",
+    "precio_hoy": 1261.13,
+    "precio_ref": 2299.0,
+    "diff_pct": -45.14441061331013
+  },
+  {
+    "sku_id": "32710",
+    "nombre": "Panceta Paladini Salada X 1 Kg.",
+    "marca": "PALADINI",
+    "categoria": "Otros Fiambres",
+    "precio_hoy": 24701.19,
+    "precio_ref": 43000.0,
+    "diff_pct": -42.55537209302326
+  },
+  {
+    "sku_id": "7281",
+    "nombre": "Frutilla Cubeta 250 Gr",
+    "marca": "VERDULERIA PROPIA",
     "categoria": "Frutas Empaquetadas",
-    "precio_hoy": 3899.0,
-    "precio_ref": 6675.49,
-    "diff_pct": -41.59230258752541
+    "precio_hoy": 2624.37,
+    "precio_ref": 4499.0,
+    "diff_pct": -41.66770393420761
   },
   {
-    "sku_id": "336124",
-    "nombre": "Toallitas Húmedas Huggies Triple Protección 48 U",
-    "marca": "HUGGIES",
-    "categoria": "Higiene del Bebé",
-    "precio_hoy": 4950.0,
-    "precio_ref": 8300.0,
-    "diff_pct": -40.36144578313253
+    "sku_id": "1364629",
+    "nombre": "Ojo De Bife Ceja",
+    "marca": "LA HACIENDA",
+    "categoria": "La Hacienda Premium",
+    "precio_hoy": 29242.59,
+    "precio_ref": 48299.0,
+    "diff_pct": -39.45508188575333
   },
   {
-    "sku_id": "300104",
-    "nombre": "Queso Camembert La Suerte Edicion Especial X 250",
-    "marca": "LA SUERTE",
-    "categoria": "Quesos Especiales e Importados",
-    "precio_hoy": 9107.57,
-    "precio_ref": 14837.0,
-    "diff_pct": -38.61582530161084
-  },
-  {
-    "sku_id": "43277",
-    "nombre": "Queso Provoleta Wapi 120 Gr",
+    "sku_id": "8415",
+    "nombre": "Queso Burrata Wapi 250 Gr",
     "marca": "WAPI",
     "categoria": "Quesos Especiales e Importados",
-    "precio_hoy": 5239.29,
-    "precio_ref": 8435.0,
-    "diff_pct": -37.886307053941906
+    "precio_hoy": 7919.45,
+    "precio_ref": 12255.0,
+    "diff_pct": -35.37780497756018
   },
   {
-    "sku_id": "41490",
-    "nombre": "Queso Gouda Paquete X Kg La Paulina",
-    "marca": "LA PAULINA",
-    "categoria": "Quesos Semiblandos",
-    "precio_hoy": 20063.39,
-    "precio_ref": 31600.0,
-    "diff_pct": -36.508259493670884
+    "sku_id": "182",
+    "nombre": "Queso Brie Wapi Leche De Vaca 100 Gr",
+    "marca": "WAPI",
+    "categoria": "Quesos Especiales e Importados",
+    "precio_hoy": 5783.79,
+    "precio_ref": 8859.0,
+    "diff_pct": -34.71283440568913
   },
   {
-    "sku_id": "33049",
-    "nombre": "Focaccia Tomate",
-    "marca": "FRESH",
-    "categoria": "Panificados",
-    "precio_hoy": 1650.89,
-    "precio_ref": 2600.0,
-    "diff_pct": -36.504230769230766
+    "sku_id": "19332",
+    "nombre": "Frutilla Tamara Cub 500 Gr.",
+    "marca": "VERDULERIA PROPIA",
+    "categoria": "Frutas Empaquetadas",
+    "precio_hoy": 7499.0,
+    "precio_ref": 11476.39,
+    "diff_pct": -34.657152641205116
   },
   {
-    "sku_id": "17569",
-    "nombre": "Leberwurst Calchaqui 200 Gr",
-    "marca": "CALCHAQUI",
+    "sku_id": "32131",
+    "nombre": "Trucha En Escabeche Familia Weiss 180 Gr",
+    "marca": "FAMILIA WEISS",
     "categoria": "Otros Fiambres",
-    "precio_hoy": 1410.74,
-    "precio_ref": 2190.0,
-    "diff_pct": -35.58264840182648
+    "precio_hoy": 14553.09,
+    "precio_ref": 21900.0,
+    "diff_pct": -33.547534246575346
   },
   {
-    "sku_id": "78645",
-    "nombre": "Ensalada Rusa X Kg",
-    "marca": "FRESH",
-    "categoria": "Ensaladas",
-    "precio_hoy": 4952.69,
-    "precio_ref": 7619.05,
-    "diff_pct": -34.995964063761235
+    "sku_id": "1363958",
+    "nombre": "Queso Provoleta Nonna Pia X 155 Gr",
+    "marca": "NONNA PIA",
+    "categoria": "Quesos Duros",
+    "precio_hoy": 3982.79,
+    "precio_ref": 5938.0,
+    "diff_pct": -32.927079824856854
+  },
+  {
+    "sku_id": "247559",
+    "nombre": "Milanesa Nalga",
+    "marca": "LA HACIENDA",
+    "categoria": "Novillito Especial",
+    "precio_hoy": 17076.73,
+    "precio_ref": 24935.0,
+    "diff_pct": -31.515019049528775
   }
 ]
