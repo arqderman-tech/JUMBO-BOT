@@ -1,182 +1,182 @@
 [
   {
-    "sku_id": "2467",
-    "nombre": "Baguette De Salvado Elaboracion local Baguette De Salvado",
-    "marca": "LA PANADERIA",
-    "categoria": "Panificados",
-    "precio_hoy": 1400.0,
-    "precio_ref": 344.99,
-    "diff_pct": 305.8088640250442
+    "sku_id": "243482",
+    "nombre": "Durazno Amarillo Especial Por Kg",
+    "marca": "VERDULERIA PROPIA",
+    "categoria": "Frutas Sueltas",
+    "precio_hoy": 20930.59,
+    "precio_ref": 3999.0,
+    "diff_pct": 423.3955988997249
   },
   {
-    "sku_id": "43219",
-    "nombre": "Jugo Cuarto Creciente Manzana Botella 1.5 L",
-    "marca": "CUARTO CRECIENTE.",
-    "categoria": "Frescos",
-    "precio_hoy": 10011.67,
-    "precio_ref": 3199.0,
-    "diff_pct": 212.96248827758677
+    "sku_id": "246476",
+    "nombre": "Pelón Elegido Por Kg",
+    "marca": "VERDULERIA PROPIA",
+    "categoria": "Frutas Sueltas",
+    "precio_hoy": 12154.99,
+    "precio_ref": 3499.0,
+    "diff_pct": 247.38468133752497
   },
   {
-    "sku_id": "19836",
-    "nombre": "Radicheta Roco 100 Gr",
+    "sku_id": "10382",
+    "nombre": "Ensalada Nutritiva Song 250 Gr",
+    "marca": "SONG",
+    "categoria": "Verduras Procesadas y Ensaladas Listas",
+    "precio_hoy": 10002.29,
+    "precio_ref": 2999.0,
+    "diff_pct": 233.5208402800934
+  },
+  {
+    "sku_id": "7292",
+    "nombre": "Pelón Por Kg",
+    "marca": "VERDULERIA PROPIA",
+    "categoria": "Frutas Sueltas",
+    "precio_hoy": 8011.25,
+    "precio_ref": 2499.0,
+    "diff_pct": 220.578231292517
+  },
+  {
+    "sku_id": "247560",
+    "nombre": "Osobuco",
+    "marca": "LA HACIENDA",
+    "categoria": "Novillito Especial",
+    "precio_hoy": 10915.0,
+    "precio_ref": 3827.93,
+    "diff_pct": 185.14105534845206
+  },
+  {
+    "sku_id": "247576",
+    "nombre": "Matambre",
+    "marca": "LA HACIENDA",
+    "categoria": "Novillito Especial",
+    "precio_hoy": 26509.0,
+    "precio_ref": 9314.07,
+    "diff_pct": 184.6124197048122
+  },
+  {
+    "sku_id": "19826",
+    "nombre": "Rúcula Roco 1 U",
     "marca": "ROCO",
     "categoria": "Verduras Empaquetadas",
-    "precio_hoy": 9997.59,
+    "precio_hoy": 10001.77,
     "precio_ref": 3799.0,
-    "diff_pct": 163.16372729665702
+    "diff_pct": 163.27375625164518
   },
   {
-    "sku_id": "167899",
-    "nombre": "Zapallito Largo Por Kg",
-    "marca": "VERDULERIA PROPIA",
-    "categoria": "Hortalizas Livianas",
-    "precio_hoy": 3899.99,
-    "precio_ref": 1599.0,
-    "diff_pct": 143.90181363352096
+    "sku_id": "20066",
+    "nombre": "Entraña Premium La Hacienda",
+    "marca": "LA HACIENDA",
+    "categoria": "La Hacienda Premium",
+    "precio_hoy": 48499.0,
+    "precio_ref": 20937.09,
+    "diff_pct": 131.64155095096788
   },
   {
-    "sku_id": "412773",
-    "nombre": "Galletitas Chocolate Rellenas 97 Grs Cuisine & Co",
-    "marca": "Cuisine & CO",
-    "categoria": "Galletitas Dulces",
-    "precio_hoy": 1070.0,
-    "precio_ref": 608.45,
-    "diff_pct": 75.85668501931136
+    "sku_id": "47110",
+    "nombre": "Azotillo",
+    "marca": "LA HACIENDA",
+    "categoria": "Novillito Especial",
+    "precio_hoy": 9035.0,
+    "precio_ref": 3991.07,
+    "diff_pct": 126.38039423011875
   },
   {
-    "sku_id": "10197",
-    "nombre": "Moras General Frescas 1 U",
-    "marca": "GERGAL",
-    "categoria": "Frutas Empaquetadas",
-    "precio_hoy": 6675.49,
-    "precio_ref": 3899.0,
-    "diff_pct": 71.21031033598358
+    "sku_id": "247557",
+    "nombre": "Asado Del Centro",
+    "marca": "LA HACIENDA",
+    "categoria": "Novillito Especial",
+    "precio_hoy": 23869.0,
+    "precio_ref": 10568.09,
+    "diff_pct": 125.85916660437222
   },
   {
-    "sku_id": "16928",
-    "nombre": "Lechuga Mantecosa Sueño Verde 200 Gr",
+    "sku_id": "15927",
+    "nombre": "Asado Americano Premium",
+    "marca": "LA HACIENDA",
+    "categoria": "La Hacienda Premium",
+    "precio_hoy": 28335.0,
+    "precio_ref": 12592.69,
+    "diff_pct": 125.01149476402577
+  },
+  {
+    "sku_id": "318361",
+    "nombre": "Tomahawk Premium La Hacienda",
+    "marca": "LA HACIENDA",
+    "categoria": "La Hacienda Premium",
+    "precio_hoy": 38399.0,
+    "precio_ref": 17180.83,
+    "diff_pct": 123.49909754068922
+  },
+  {
+    "sku_id": "245591",
+    "nombre": "Apio La Boutique 300 Gr",
     "marca": "SUEÑO VERDE",
-    "categoria": "Verduras Empaquetadas",
-    "precio_hoy": 8842.19,
-    "precio_ref": 5388.0,
-    "diff_pct": 64.1089458054937
-  },
-  {
-    "sku_id": "309543",
-    "nombre": "Miss Hojaldre Cuadraditas 180 Grs Cuisine & Co",
-    "marca": "Cuisine & CO",
-    "categoria": "Galletitas Dulces",
-    "precio_hoy": 1646.79,
-    "precio_ref": 1110.0,
-    "diff_pct": 48.35945945945946
-  },
-  {
-    "sku_id": "252715",
-    "nombre": "Queso De Cabra Sacre Coeur 1 Kg Cabaña Piedras Blancas",
-    "marca": "CABAÑA PIEDRAS BLANCAS",
-    "categoria": "Quesos Especiales e Importados",
-    "precio_hoy": 80325.0,
-    "precio_ref": 55565.6,
-    "diff_pct": 44.55886375743266
-  },
-  {
-    "sku_id": "384896",
-    "nombre": "Alimento Dog Chow Adulto Medianos Y Grandes 1,5 Kg",
-    "marca": "DOG CHOW",
-    "categoria": "Secos",
-    "precio_hoy": 7092.93,
-    "precio_ref": 5115.0,
-    "diff_pct": 38.669208211143705
-  },
-  {
-    "sku_id": "388846",
-    "nombre": "Ravioles Orali De Espinaca 500g",
-    "marca": "Oralí",
-    "categoria": "Pastas Rellenas",
-    "precio_hoy": 2900.0,
-    "precio_ref": 2200.0,
-    "diff_pct": 31.818181818181817
-  },
-  {
-    "sku_id": "394792",
-    "nombre": "Copos De Maiz 150 Grs Cuisine & Co",
-    "marca": "Cuisine & CO",
-    "categoria": "Cereales",
-    "precio_hoy": 1891.79,
-    "precio_ref": 1500.0,
-    "diff_pct": 26.119333333333334
-  },
-  {
-    "sku_id": "3080968",
-    "nombre": "Frutillas Congeladas X 1 Kg Fresh",
-    "marca": "FRESH",
-    "categoria": "Frutas Congeladas",
-    "precio_hoy": 14850.0,
-    "precio_ref": 12100.0,
-    "diff_pct": 22.727272727272727
-  },
-  {
-    "sku_id": "338370",
-    "nombre": "Sardinas En Aceite 160 Gr Cuisine & Co",
-    "marca": "Cuisine & CO",
-    "categoria": "Conservas de Pescado",
-    "precio_hoy": 3650.0,
-    "precio_ref": 3020.0,
-    "diff_pct": 20.86092715231788
-  },
-  {
-    "sku_id": "394778",
-    "nombre": "Granola Con Pasas 320 Grs Cuisine & Co",
-    "marca": "Cuisine & CO",
-    "categoria": "Cereales",
-    "precio_hoy": 4686.89,
-    "precio_ref": 3880.0,
-    "diff_pct": 20.796134020618563
-  },
-  {
-    "sku_id": "309995",
-    "nombre": "Espinaca Santa Maria 200 Gr",
-    "marca": "SANTA MARIA",
     "categoria": "Verduras Procesadas y Ensaladas Listas",
-    "precio_hoy": 5999.0,
-    "precio_ref": 5041.95,
-    "diff_pct": 18.98174317476374
+    "precio_hoy": 9996.49,
+    "precio_ref": 4599.0,
+    "diff_pct": 117.36225266362253
   },
   {
-    "sku_id": "26198",
-    "nombre": "Galletitas Pepas 200 Gr Arrozen",
-    "marca": "ARROZEN",
+    "sku_id": "412774",
+    "nombre": "Galletitas Vainilla Rellenas 291 Grs Cuisine & Co",
+    "marca": "Cuisine & CO",
     "categoria": "Galletitas Dulces",
-    "precio_hoy": 3300.0,
-    "precio_ref": 2800.0,
-    "diff_pct": 17.857142857142858
+    "precio_hoy": 3360.0,
+    "precio_ref": 1657.69,
+    "diff_pct": 102.6916974826415
   },
   {
-    "sku_id": "1368029",
-    "nombre": "Granola Go Natural Crunch 290gr",
-    "marca": "GO NATURAL",
-    "categoria": "Cereales",
-    "precio_hoy": 5100.0,
-    "precio_ref": 4350.0,
-    "diff_pct": 17.24137931034483
+    "sku_id": "223772",
+    "nombre": "Uva Blanca Cubeta",
+    "marca": "MOÑO AZUL",
+    "categoria": "Frutas Empaquetadas",
+    "precio_hoy": 3999.0,
+    "precio_ref": 1983.39,
+    "diff_pct": 101.624491401086
   },
   {
-    "sku_id": "13277",
-    "nombre": "Bocaditos De Cereal Rellenos Con Frutilla Granix 180 Gr",
-    "marca": "GRANIX",
-    "categoria": "Cereales",
-    "precio_hoy": 3100.0,
-    "precio_ref": 2650.0,
-    "diff_pct": 16.9811320754717
+    "sku_id": "412772",
+    "nombre": "Galletitas Vainilla Rellenas 97 Grs Cuisine & Co",
+    "marca": "Cuisine & CO",
+    "categoria": "Galletitas Dulces",
+    "precio_hoy": 1140.0,
+    "precio_ref": 608.45,
+    "diff_pct": 87.36132796449995
   },
   {
-    "sku_id": "318742",
-    "nombre": "Yerba Mate Barcbacua La Merced 500 Gr",
-    "marca": "LA MERCED",
-    "categoria": "Yerbas",
-    "precio_hoy": 5395.49,
-    "precio_ref": 4682.0,
-    "diff_pct": 15.239000427167873
+    "sku_id": "5131",
+    "nombre": "Asado De Novillito Gondola Bandeja",
+    "marca": "LA HACIENDA",
+    "categoria": "Novillito",
+    "precio_hoy": 11449.0,
+    "precio_ref": 6124.99,
+    "diff_pct": 86.92275415959864
+  },
+  {
+    "sku_id": "63516",
+    "nombre": "Repollo Blanco Por Kg",
+    "marca": "VERDULERIA PROPIA",
+    "categoria": "Verduras Frescas de Hoja",
+    "precio_hoy": 2299.0,
+    "precio_ref": 1261.13,
+    "diff_pct": 82.29682903427876
+  },
+  {
+    "sku_id": "43027",
+    "nombre": "Portobellos Hongos Del Pilar",
+    "marca": "HONGOS DEL PILAR",
+    "categoria": "Verduras Empaquetadas",
+    "precio_hoy": 9989.77,
+    "precio_ref": 5799.0,
+    "diff_pct": 72.26711501983101
+  },
+  {
+    "sku_id": "17438",
+    "nombre": "Melón Piel De Sapo X Kg",
+    "marca": "VERDULERIA PROPIA",
+    "categoria": "Frutas Sueltas",
+    "precio_hoy": 6005.43,
+    "precio_ref": 3499.0,
+    "diff_pct": 71.63275221491855
   }
 ]
