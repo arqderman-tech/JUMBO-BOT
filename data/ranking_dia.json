@@ -1,182 +1,182 @@
 [
   {
-    "sku_id": "148526",
-    "nombre": "Endivias Flamingo 300 Gr",
-    "marca": "FLAMINGO",
-    "categoria": "Verduras Empaquetadas",
-    "precio_hoy": 100031.57,
-    "precio_ref": 7799.0,
-    "diff_pct": 1182.6204641620723
+    "sku_id": "10288",
+    "nombre": "Pollo Rotisería X 1 Un",
+    "marca": "FRESH",
+    "categoria": "Carnes",
+    "precio_hoy": 17000.0,
+    "precio_ref": 19.99,
+    "diff_pct": 84942.52126063031
   },
   {
-    "sku_id": "347985",
-    "nombre": "Pack Choi Verde Orgánico X Unidad",
-    "marca": "VERDULERIA PROPIA",
-    "categoria": "Verduras Frescas de Hoja",
-    "precio_hoy": 4440.59,
-    "precio_ref": 499.0,
-    "diff_pct": 789.8977955911823
+    "sku_id": "78261",
+    "nombre": "Queso La Vaca Que Rie X 140 Gr",
+    "marca": "LA VACA QUE RIE",
+    "categoria": "Quesos Especiales e Importados",
+    "precio_hoy": 6617.19,
+    "precio_ref": 19.79,
+    "diff_pct": 33337.03890853967
   },
   {
-    "sku_id": "44034",
-    "nombre": "Tomate Orgánico Por Kg",
-    "marca": "VERDULERIA PROPIA",
-    "categoria": "Verduras Frescas de Hoja",
-    "precio_hoy": 62346.45,
-    "precio_ref": 7499.0,
-    "diff_pct": 731.3968529137218
+    "sku_id": "36781",
+    "nombre": "Queso Emmental Babybel Mini 100 Gr",
+    "marca": "BABYBEL",
+    "categoria": "Quesos Especiales e Importados",
+    "precio_hoy": 11011.0,
+    "precio_ref": 371.85,
+    "diff_pct": 2861.140244722334
   },
   {
-    "sku_id": "18214",
-    "nombre": "Zanahoria Rallada",
-    "marca": "ROCKY",
-    "categoria": "Verduras Empaquetadas",
-    "precio_hoy": 10007.89,
-    "precio_ref": 1999.0,
-    "diff_pct": 400.6448224112056
+    "sku_id": "32194",
+    "nombre": "Queso La Vaca Que Ríe 128 Gr",
+    "marca": "LA VACA QUE RIE",
+    "categoria": "Quesos Especiales e Importados",
+    "precio_hoy": 6957.5,
+    "precio_ref": 261.85,
+    "diff_pct": 2557.0555661638336
   },
   {
-    "sku_id": "248349",
-    "nombre": "Champignon Granel Portobello S/e 1 Kg",
-    "marca": "VERDULERIA PROPIA",
-    "categoria": "Hortalizas Livianas",
-    "precio_hoy": 100422.39,
-    "precio_ref": 24999.0,
-    "diff_pct": 301.70562822512903
+    "sku_id": "20419",
+    "nombre": "Queso Mini Babybel Cheddar 5 U",
+    "marca": "BABYBEL",
+    "categoria": "Quesos Especiales e Importados",
+    "precio_hoy": 9922.0,
+    "precio_ref": 400.45,
+    "diff_pct": 2377.7125733549756
   },
   {
-    "sku_id": "148739",
-    "nombre": "Ensalada Mix Lechuga Song 250 Gr",
-    "marca": "SONG",
-    "categoria": "Verduras Procesadas y Ensaladas Listas",
-    "precio_hoy": 3199.0,
-    "precio_ref": 998.87,
-    "diff_pct": 220.26189594241492
+    "sku_id": "148290",
+    "nombre": "Queso Babybel 200 Gr",
+    "marca": "BABYBEL",
+    "categoria": "Quesos Especiales e Importados",
+    "precio_hoy": 9327.08,
+    "precio_ref": 654.75,
+    "diff_pct": 1324.5253913707522
   },
   {
-    "sku_id": "20291",
-    "nombre": "Cazuela De Hortalizas 1 U",
+    "sku_id": "250691",
+    "nombre": "Chuleta Kassler X Kg Jumbo Artesanal",
+    "marca": "JUMBO ARTESANAL",
+    "categoria": "Otros Fiambres",
+    "precio_hoy": 31900.0,
+    "precio_ref": 7467.19,
+    "diff_pct": 327.2022005600501
+  },
+  {
+    "sku_id": "273407",
+    "nombre": "Scones Con Pasas",
+    "marca": "FRESH",
+    "categoria": "Panificados",
+    "precio_hoy": 6500.0,
+    "precio_ref": 1771.69,
+    "diff_pct": 266.8813392862182
+  },
+  {
+    "sku_id": "1134",
+    "nombre": "Zapallo Anco En Rodajas Song 400 Gr",
     "marca": "SONG",
     "categoria": "Verduras Procesadas y Ensaladas Listas",
     "precio_hoy": 2999.0,
-    "precio_ref": 998.79,
-    "diff_pct": 200.2633186155248
+    "precio_ref": 999.27,
+    "diff_pct": 200.11908693346143
   },
   {
-    "sku_id": "247580",
-    "nombre": "Vacio",
+    "sku_id": "273722",
+    "nombre": "Codillo Ahumado X Kg Jumbo Artesanal",
+    "marca": "JUMBO ARTESANAL",
+    "categoria": "Otros Fiambres",
+    "precio_hoy": 9900.0,
+    "precio_ref": 3652.95,
+    "diff_pct": 171.01383813082577
+  },
+  {
+    "sku_id": "19826",
+    "nombre": "Rúcula Roco 1 U",
+    "marca": "ROCO",
+    "categoria": "Verduras Empaquetadas",
+    "precio_hoy": 10001.77,
+    "precio_ref": 3799.0,
+    "diff_pct": 163.27375625164518
+  },
+  {
+    "sku_id": "247573",
+    "nombre": "Bife De Chorizo",
     "marca": "LA HACIENDA",
     "categoria": "Novillito Especial",
-    "precio_hoy": 34109.0,
-    "precio_ref": 11928.87,
-    "diff_pct": 185.93655559998555
+    "precio_hoy": 30619.0,
+    "precio_ref": 12586.17,
+    "diff_pct": 143.27495973755322
   },
   {
-    "sku_id": "148362",
-    "nombre": "Albahaca Orgánica Por U",
-    "marca": "VERDULERIA PROPIA",
-    "categoria": "Verduras Frescas de Hoja",
-    "precio_hoy": 9999.47,
-    "precio_ref": 3599.0,
-    "diff_pct": 177.84023339816613
+    "sku_id": "13300",
+    "nombre": "Puerro Song 300 Gr",
+    "marca": "SONG",
+    "categoria": "Verduras Empaquetadas",
+    "precio_hoy": 9999.99,
+    "precio_ref": 4499.0,
+    "diff_pct": 122.27139364303179
   },
   {
-    "sku_id": "5348",
-    "nombre": "Roast Beef Churrasco",
-    "marca": "LA HACIENDA",
-    "categoria": "Novillito Especial",
-    "precio_hoy": 16655.0,
-    "precio_ref": 5999.99,
-    "diff_pct": 177.5837959729933
+    "sku_id": "268497",
+    "nombre": "Bizcochuelo Humedo Bañado",
+    "marca": "SIN MARCA",
+    "categoria": "Tortas y Tartas",
+    "precio_hoy": 14000.0,
+    "precio_ref": 6342.77,
+    "diff_pct": 120.72375318669917
   },
   {
-    "sku_id": "5346",
-    "nombre": "Roast Beef Trozo",
-    "marca": "LA HACIENDA",
-    "categoria": "Novillito Especial",
-    "precio_hoy": 16655.0,
-    "precio_ref": 5999.99,
-    "diff_pct": 177.5837959729933
+    "sku_id": "148525",
+    "nombre": "Apio Cristal Song 500 Gr",
+    "marca": "SONG",
+    "categoria": "Verduras Empaquetadas",
+    "precio_hoy": 9999.99,
+    "precio_ref": 4599.0,
+    "diff_pct": 117.43835616438356
   },
   {
-    "sku_id": "5337",
-    "nombre": "Paleta Americano",
-    "marca": "LA HACIENDA",
-    "categoria": "Novillito Especial",
-    "precio_hoy": 17505.0,
-    "precio_ref": 6820.95,
-    "diff_pct": 156.6358058628197
+    "sku_id": "3067691",
+    "nombre": "Bolsa Rollo Home Care 50x70 Compostable 20u",
+    "marca": "HOME CARE",
+    "categoria": "Bolsas",
+    "precio_hoy": 6200.0,
+    "precio_ref": 3180.0,
+    "diff_pct": 94.9685534591195
   },
   {
-    "sku_id": "5344",
-    "nombre": "Paleta Trozo",
-    "marca": "LA HACIENDA",
-    "categoria": "Novillito Especial",
-    "precio_hoy": 17005.0,
-    "precio_ref": 7022.47,
-    "diff_pct": 142.1512658651443
+    "sku_id": "41191",
+    "nombre": "Ensalada Salanova Con Escarola Buy&eat",
+    "marca": "BUY & EAT",
+    "categoria": "Verduras Procesadas y Ensaladas Listas",
+    "precio_hoy": 9999.99,
+    "precio_ref": 5399.0,
+    "diff_pct": 85.21929987034636
   },
   {
-    "sku_id": "47110",
-    "nombre": "Azotillo",
-    "marca": "LA HACIENDA",
-    "categoria": "Novillito Especial",
-    "precio_hoy": 9035.0,
-    "precio_ref": 3991.07,
-    "diff_pct": 126.38039423011875
+    "sku_id": "36318",
+    "nombre": "Focaccia Napolitana 1u Focaccia Napolitana",
+    "marca": "PANADERIA PROPIA",
+    "categoria": "Pizzas y Focaccias",
+    "precio_hoy": 14000.0,
+    "precio_ref": 7584.99,
+    "diff_pct": 84.57506206336463
   },
   {
-    "sku_id": "247564",
-    "nombre": "Carnaza Comun",
-    "marca": "LA HACIENDA",
-    "categoria": "Novillito Especial",
-    "precio_hoy": 9035.0,
-    "precio_ref": 3991.07,
-    "diff_pct": 126.38039423011875
+    "sku_id": "391794",
+    "nombre": "Snack Remolacha Y Rawmesan 130 Gr Almadre",
+    "marca": "ALMADRE",
+    "categoria": "Snacks",
+    "precio_hoy": 2850.0,
+    "precio_ref": 1550.0,
+    "diff_pct": 83.87096774193549
   },
   {
-    "sku_id": "5123",
-    "nombre": "Paleta Trozo",
-    "marca": "LA HACIENDA",
-    "categoria": "Novillito",
-    "precio_hoy": 15269.0,
-    "precio_ref": 6917.49,
-    "diff_pct": 120.73035161597632
-  },
-  {
-    "sku_id": "5120",
-    "nombre": "Roast Beef Trozo",
-    "marca": "LA HACIENDA",
-    "categoria": "Novillito",
-    "precio_hoy": 14569.0,
-    "precio_ref": 6974.53,
-    "diff_pct": 108.88862762078593
-  },
-  {
-    "sku_id": "10197",
-    "nombre": "Moras General Frescas 1 U",
-    "marca": "GERGAL",
-    "categoria": "Frutas Empaquetadas",
-    "precio_hoy": 6675.49,
-    "precio_ref": 3899.0,
-    "diff_pct": 71.21031033598358
-  },
-  {
-    "sku_id": "16465",
-    "nombre": "Chorizo Comun Bandeja - 4 U - X Kg - La Criolla",
-    "marca": "CABAÑA LA CRIOLLA",
-    "categoria": "Chorizos",
-    "precio_hoy": 13299.0,
-    "precio_ref": 8188.79,
-    "diff_pct": 62.40494627411376
-  },
-  {
-    "sku_id": "15924",
-    "nombre": "Medio Matambre Premium",
-    "marca": "LA HACIENDA",
-    "categoria": "La Hacienda Premium",
-    "precio_hoy": 21999.0,
-    "precio_ref": 14085.67,
-    "diff_pct": 56.180004217051795
+    "sku_id": "273401",
+    "nombre": "Scones",
+    "marca": "FRESH",
+    "categoria": "Panificados",
+    "precio_hoy": 6000.0,
+    "precio_ref": 3308.29,
+    "diff_pct": 81.36257704131138
   }
 ]

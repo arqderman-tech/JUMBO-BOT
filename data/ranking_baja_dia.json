@@ -1,182 +1,182 @@
 [
   {
-    "sku_id": "10288",
-    "nombre": "Pollo Rotisería X 1 Un",
-    "marca": "FRESH",
-    "categoria": "Carnes",
-    "precio_hoy": 19.99,
-    "precio_ref": 17000.0,
-    "diff_pct": -99.88241176470586
+    "sku_id": "148526",
+    "nombre": "Endivias Flamingo 300 Gr",
+    "marca": "FLAMINGO",
+    "categoria": "Verduras Empaquetadas",
+    "precio_hoy": 7799.0,
+    "precio_ref": 100031.57,
+    "diff_pct": -92.20346136724636
   },
   {
-    "sku_id": "44293",
-    "nombre": "Radicheta Rocky 100 Gr",
+    "sku_id": "243482",
+    "nombre": "Durazno Amarillo Especial Por Kg",
+    "marca": "VERDULERIA PROPIA",
+    "categoria": "Frutas Sueltas",
+    "precio_hoy": 3999.0,
+    "precio_ref": 20711.29,
+    "diff_pct": -80.69169037756701
+  },
+  {
+    "sku_id": "168858",
+    "nombre": "Anco En Rodajas Rocky-bsa-gr.-300",
     "marca": "ROCKY",
-    "categoria": "Verduras Procesadas y Ensaladas Listas",
-    "precio_hoy": 3699.0,
-    "precio_ref": 141867.7,
-    "diff_pct": -97.39264117202154
-  },
-  {
-    "sku_id": "273357",
-    "nombre": "Pan Altamura Fresh",
-    "marca": "ELABORACION PROPIA",
-    "categoria": "Panificados",
-    "precio_hoy": 821.69,
-    "precio_ref": 4000.0,
-    "diff_pct": -79.45774999999999
-  },
-  {
-    "sku_id": "250691",
-    "nombre": "Chuleta Kassler X Kg Jumbo Artesanal",
-    "marca": "JUMBO ARTESANAL",
-    "categoria": "Otros Fiambres",
-    "precio_hoy": 7467.19,
-    "precio_ref": 31900.0,
-    "diff_pct": -76.59188087774295
-  },
-  {
-    "sku_id": "10382",
-    "nombre": "Ensalada Nutritiva Song 250 Gr",
-    "marca": "SONG",
-    "categoria": "Verduras Procesadas y Ensaladas Listas",
-    "precio_hoy": 2999.0,
-    "precio_ref": 10002.29,
-    "diff_pct": -70.01686613765447
-  },
-  {
-    "sku_id": "24748",
-    "nombre": "Ensalada Hawai Song 500 Gr",
-    "marca": "SONG",
-    "categoria": "Verduras Procesadas y Ensaladas Listas",
-    "precio_hoy": 2999.0,
-    "precio_ref": 9998.39,
-    "diff_pct": -70.00517083250402
-  },
-  {
-    "sku_id": "20405",
-    "nombre": "Ensalada Oriental Song 500 Gr",
-    "marca": "SONG",
-    "categoria": "Verduras Procesadas y Ensaladas Listas",
-    "precio_hoy": 3199.0,
-    "precio_ref": 9996.99,
-    "diff_pct": -68.00036811080135
-  },
-  {
-    "sku_id": "353023",
-    "nombre": "Café Capsula Avellana 10 Un Cuisine & Co",
-    "marca": "CUISINE & CO PREMIUM",
-    "categoria": "Cafés",
-    "precio_hoy": 11330.0,
-    "precio_ref": 33086.25,
-    "diff_pct": -65.75616759227776
-  },
-  {
-    "sku_id": "273722",
-    "nombre": "Codillo Ahumado X Kg Jumbo Artesanal",
-    "marca": "JUMBO ARTESANAL",
-    "categoria": "Otros Fiambres",
-    "precio_hoy": 3652.95,
-    "precio_ref": 9900.0,
-    "diff_pct": -63.10151515151515
-  },
-  {
-    "sku_id": "10430",
-    "nombre": "Verduritas De Invierno",
-    "marca": "SONG",
-    "categoria": "Verduras Procesadas y Ensaladas Listas",
-    "precio_hoy": 999.19,
-    "precio_ref": 2699.0,
-    "diff_pct": -62.97925157465728
-  },
-  {
-    "sku_id": "19826",
-    "nombre": "Rúcula Roco 1 U",
-    "marca": "ROCO",
     "categoria": "Verduras Empaquetadas",
-    "precio_hoy": 3799.0,
-    "precio_ref": 10001.77,
-    "diff_pct": -62.016723040021915
+    "precio_hoy": 2199.0,
+    "precio_ref": 10359.37,
+    "diff_pct": -78.77284043334681
   },
   {
-    "sku_id": "19836",
-    "nombre": "Radicheta Roco 100 Gr",
-    "marca": "ROCO",
-    "categoria": "Verduras Empaquetadas",
-    "precio_hoy": 3799.0,
-    "precio_ref": 9997.59,
-    "diff_pct": -62.000842202970915
+    "sku_id": "246476",
+    "nombre": "Pelón Elegido Por Kg",
+    "marca": "VERDULERIA PROPIA",
+    "categoria": "Frutas Sueltas",
+    "precio_hoy": 3999.0,
+    "precio_ref": 12154.99,
+    "diff_pct": -67.09993179755804
   },
   {
-    "sku_id": "273338",
-    "nombre": "Ciriola Zepellin Cebolla Y Queso",
+    "sku_id": "29317",
+    "nombre": "Ensalada Jardin So",
+    "marca": "SONG",
+    "categoria": "Verduras Procesadas y Ensaladas Listas",
+    "precio_hoy": 998.99,
+    "precio_ref": 2999.0,
+    "diff_pct": -66.68922974324775
+  },
+  {
+    "sku_id": "5344",
+    "nombre": "Paleta Trozo",
+    "marca": "LA HACIENDA",
+    "categoria": "Novillito Especial",
+    "precio_hoy": 7538.45,
+    "precio_ref": 17005.0,
+    "diff_pct": -55.6692149367833
+  },
+  {
+    "sku_id": "47110",
+    "nombre": "Azotillo",
+    "marca": "LA HACIENDA",
+    "categoria": "Novillito Especial",
+    "precio_hoy": 4038.19,
+    "precio_ref": 9035.0,
+    "diff_pct": -55.30503597122301
+  },
+  {
+    "sku_id": "247564",
+    "nombre": "Carnaza Comun",
+    "marca": "LA HACIENDA",
+    "categoria": "Novillito Especial",
+    "precio_hoy": 4038.19,
+    "precio_ref": 9035.0,
+    "diff_pct": -55.30503597122301
+  },
+  {
+    "sku_id": "27166",
+    "nombre": "Sushi Especial X Un",
     "marca": "FRESH",
-    "categoria": "Panificados",
-    "precio_hoy": 4762.19,
-    "precio_ref": 11000.0,
-    "diff_pct": -56.70736363636364
+    "categoria": "Guarniciones",
+    "precio_hoy": 931.29,
+    "precio_ref": 2000.0,
+    "diff_pct": -53.435500000000005
   },
   {
-    "sku_id": "20328",
-    "nombre": "Berenjenas Exoticas Organicas Berenjenas Exóticas Orgánicas Por Kg",
+    "sku_id": "20066",
+    "nombre": "Entraña Premium La Hacienda",
+    "marca": "LA HACIENDA",
+    "categoria": "La Hacienda Premium",
+    "precio_hoy": 23125.23,
+    "precio_ref": 48499.0,
+    "diff_pct": -52.31813027072724
+  },
+  {
+    "sku_id": "5886",
+    "nombre": "Chorizo Fresco Cabaña Sr",
+    "marca": "CABAÑA SR",
+    "categoria": "Chorizos",
+    "precio_hoy": 8133.87,
+    "precio_ref": 16199.0,
+    "diff_pct": -49.78782640903759
+  },
+  {
+    "sku_id": "10245",
+    "nombre": "Ciruela Amarilla X Kg",
     "marca": "VERDULERIA PROPIA",
-    "categoria": "Verduras Frescas de Hoja",
-    "precio_hoy": 1999.99,
-    "precio_ref": 4599.0,
-    "diff_pct": -56.51250271798217
+    "categoria": "Frutas Sueltas",
+    "precio_hoy": 2490.35,
+    "precio_ref": 4499.0,
+    "diff_pct": -44.64658813069571
   },
   {
-    "sku_id": "33649",
-    "nombre": "Papa Fraccionada Colorada 1 Kg",
-    "marca": "VERDULERIA PROPIA",
-    "categoria": "Verduras Empaquetadas",
-    "precio_hoy": 1933.75,
-    "precio_ref": 4299.0,
-    "diff_pct": -55.01860897883228
+    "sku_id": "3078238",
+    "nombre": "Jabonera Plástico Bambú Gris Krea",
+    "marca": "KREA",
+    "categoria": "Accesorios de Baño",
+    "precio_hoy": 6999.0,
+    "precio_ref": 11316.69,
+    "diff_pct": -38.15329394018923
   },
   {
-    "sku_id": "13300",
-    "nombre": "Puerro Song 300 Gr",
-    "marca": "SONG",
-    "categoria": "Verduras Empaquetadas",
-    "precio_hoy": 4499.0,
-    "precio_ref": 9999.99,
-    "diff_pct": -55.009955009955014
+    "sku_id": "3078241",
+    "nombre": "Jabonera Plástico Bambú Blanco Krea",
+    "marca": "KREA",
+    "categoria": "Accesorios de Baño",
+    "precio_hoy": 6999.0,
+    "precio_ref": 11315.89,
+    "diff_pct": -38.14892156074335
   },
   {
-    "sku_id": "273390",
-    "nombre": "Alfajorcitos De Chocolate 250 Grs",
-    "marca": "FRESH",
-    "categoria": "Medialunas",
-    "precio_hoy": 3610.93,
-    "precio_ref": 8000.0,
-    "diff_pct": -54.86337499999999
+    "sku_id": "3078239",
+    "nombre": "Jabonera Plástico Bambú Negro Krea",
+    "marca": "KREA",
+    "categoria": "Accesorios de Baño",
+    "precio_hoy": 6999.0,
+    "precio_ref": 11315.89,
+    "diff_pct": -38.14892156074335
   },
   {
-    "sku_id": "245591",
-    "nombre": "Apio La Boutique 300 Gr",
-    "marca": "SUEÑO VERDE",
-    "categoria": "Verduras Procesadas y Ensaladas Listas",
-    "precio_hoy": 4599.0,
-    "precio_ref": 9996.49,
-    "diff_pct": -53.993851841996545
+    "sku_id": "3078234",
+    "nombre": "Dispensador Plástico Bambú Blanco Krea",
+    "marca": "KREA",
+    "categoria": "Accesorios de Baño",
+    "precio_hoy": 9999.0,
+    "precio_ref": 15191.95,
+    "diff_pct": -34.1822478352022
   },
   {
-    "sku_id": "32414",
-    "nombre": "Brotes De Alfalfa",
-    "marca": "SUEÑO VERDE",
-    "categoria": "Verduras Procesadas y Ensaladas Listas",
-    "precio_hoy": 4799.0,
-    "precio_ref": 9998.95,
-    "diff_pct": -52.004960520854695
+    "sku_id": "3078252",
+    "nombre": "Dispensador Plástico Bambú Negro Krea",
+    "marca": "KREA",
+    "categoria": "Accesorios de Baño",
+    "precio_hoy": 9999.0,
+    "precio_ref": 15191.95,
+    "diff_pct": -34.1822478352022
   },
   {
-    "sku_id": "188609",
-    "nombre": "Kale X Kg",
-    "marca": "VERDULERIA PROPIA",
-    "categoria": "Verduras Frescas de Hoja",
-    "precio_hoy": 4999.0,
-    "precio_ref": 9999.99,
-    "diff_pct": -50.00995000995001
+    "sku_id": "3078235",
+    "nombre": "Dispensador Plástico Bambú Gris Krea",
+    "marca": "KREA",
+    "categoria": "Accesorios de Baño",
+    "precio_hoy": 9999.0,
+    "precio_ref": 15191.19,
+    "diff_pct": -34.17895503907199
+  },
+  {
+    "sku_id": "5195",
+    "nombre": "Chorizo Colorado Al Vacio Grion X Kg-envasado Al Vacío-e/v-kg-1",
+    "marca": "FAMILIA GRIÓN",
+    "categoria": "Otros Fiambres",
+    "precio_hoy": 20870.17,
+    "precio_ref": 30970.0,
+    "diff_pct": -32.6116564417178
+  },
+  {
+    "sku_id": "3083707",
+    "nombre": "Heladera Kohinoor No Frost Invert 446 Lts Acer Heladera No Frost Inverter Acero 446 Lts Khda46ni/9 Kohinoor",
+    "marca": "KOHINOOR",
+    "categoria": "Heladera No Frost",
+    "precio_hoy": 1099999.0,
+    "precio_ref": 1627208.0,
+    "diff_pct": -32.3996071799057
   }
 ]
