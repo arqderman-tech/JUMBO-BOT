@@ -1,102 +1,102 @@
 {
-  "fecha_actualizacion": "2026-02-26",
-  "total_productos": 58640,
-  "variacion_dia": 2.25,
+  "fecha_actualizacion": "2026-02-27",
+  "total_productos": 58680,
+  "variacion_dia": 0.11,
   "variacion_mes": null,
   "variacion_anio": null,
-  "productos_subieron_dia": 629,
-  "productos_bajaron_dia": 252,
-  "productos_sin_cambio_dia": 57736,
+  "productos_subieron_dia": 303,
+  "productos_bajaron_dia": 194,
+  "productos_sin_cambio_dia": 58139,
   "categorias_dia": [
     {
       "categoria": "Almacén",
-      "variacion_pct_promedio": 0.11,
-      "productos_subieron": 173,
-      "productos_bajaron": 42,
-      "total_productos": 8191
+      "variacion_pct_promedio": 0.04,
+      "productos_subieron": 60,
+      "productos_bajaron": 35,
+      "total_productos": 8201
     },
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.06,
-      "productos_subieron": 31,
-      "productos_bajaron": 3,
-      "total_productos": 2458
+      "variacion_pct_promedio": -0.06,
+      "productos_subieron": 14,
+      "productos_bajaron": 28,
+      "total_productos": 2463
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.01,
-      "productos_subieron": 6,
-      "productos_bajaron": 7,
+      "variacion_pct_promedio": 0.25,
+      "productos_subieron": 12,
+      "productos_bajaron": 6,
       "total_productos": 448
     },
     {
       "categoria": "Lácteos",
-      "variacion_pct_promedio": 0.06,
-      "productos_subieron": 21,
-      "productos_bajaron": 18,
-      "total_productos": 1011
+      "variacion_pct_promedio": 1.18,
+      "productos_subieron": 9,
+      "productos_bajaron": 4,
+      "total_productos": 1010
     },
     {
       "categoria": "Quesos y Fiambres",
-      "variacion_pct_promedio": 28.05,
-      "productos_subieron": 36,
-      "productos_bajaron": 20,
+      "variacion_pct_promedio": -0.14,
+      "productos_subieron": 4,
+      "productos_bajaron": 11,
       "total_productos": 1550
     },
     {
       "categoria": "Frutas y Verduras",
-      "variacion_pct_promedio": 0.47,
-      "productos_subieron": 26,
-      "productos_bajaron": 33,
+      "variacion_pct_promedio": 4.61,
+      "productos_subieron": 30,
+      "productos_bajaron": 41,
       "total_productos": 1101
     },
     {
       "categoria": "Carnes",
-      "variacion_pct_promedio": 0.49,
-      "productos_subieron": 117,
-      "productos_bajaron": 16,
+      "variacion_pct_promedio": 0.37,
+      "productos_subieron": 113,
+      "productos_bajaron": 15,
       "total_productos": 820
     },
     {
       "categoria": "Rotiseria",
-      "variacion_pct_promedio": 441.11,
-      "productos_subieron": 35,
-      "productos_bajaron": 19,
+      "variacion_pct_promedio": -0.08,
+      "productos_subieron": 31,
+      "productos_bajaron": 24,
       "total_productos": 193
     },
     {
       "categoria": "Panaderia y Pasteleria",
-      "variacion_pct_promedio": 1.86,
-      "productos_subieron": 40,
-      "productos_bajaron": 9,
+      "variacion_pct_promedio": -0.02,
+      "productos_subieron": 2,
+      "productos_bajaron": 2,
       "total_productos": 384
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.07,
-      "productos_subieron": 95,
-      "productos_bajaron": 63,
-      "total_productos": 2157
+      "variacion_pct_promedio": 0.01,
+      "productos_subieron": 10,
+      "productos_bajaron": 5,
+      "total_productos": 2158
     },
     {
       "categoria": "Perfumería",
       "variacion_pct_promedio": 0,
-      "productos_subieron": 9,
-      "productos_bajaron": 6,
+      "productos_subieron": 15,
+      "productos_bajaron": 22,
       "total_productos": 3652
     },
     {
       "categoria": "Mascotas",
-      "variacion_pct_promedio": 0.03,
-      "productos_subieron": 1,
-      "productos_bajaron": 0,
+      "variacion_pct_promedio": 0.01,
+      "productos_subieron": 2,
+      "productos_bajaron": 1,
       "total_productos": 229
     },
     {
       "categoria": "Hogar y textil",
-      "variacion_pct_promedio": -0.01,
+      "variacion_pct_promedio": 0,
       "productos_subieron": 0,
-      "productos_bajaron": 11,
+      "productos_bajaron": 0,
       "total_productos": 20749
     },
     {
@@ -104,113 +104,113 @@
       "variacion_pct_promedio": 0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 152
+      "total_productos": 153
     },
     {
       "categoria": "Electro",
-      "variacion_pct_promedio": -0.02,
-      "productos_subieron": 12,
-      "productos_bajaron": 5,
-      "total_productos": 2980
+      "variacion_pct_promedio": 0,
+      "productos_subieron": 1,
+      "productos_bajaron": 0,
+      "total_productos": 2982
     },
     {
       "categoria": "Tiempo Libre",
-      "variacion_pct_promedio": 0.03,
-      "productos_subieron": 27,
+      "variacion_pct_promedio": 0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 12542
+      "total_productos": 12543
     }
   ],
   "ranking_baja_dia": [
     {
-      "sku_id": "148526",
-      "nombre": "Endivias Flamingo 300 Gr",
-      "marca": "FLAMINGO",
-      "categoria": "Verduras Empaquetadas",
-      "precio_hoy": 7799.0,
-      "precio_ref": 100031.57,
-      "diff_pct": -92.20346136724636
-    },
-    {
-      "sku_id": "243482",
-      "nombre": "Durazno Amarillo Especial Por Kg",
-      "marca": "VERDULERIA PROPIA",
-      "categoria": "Frutas Sueltas",
-      "precio_hoy": 3999.0,
-      "precio_ref": 20711.29,
-      "diff_pct": -80.69169037756701
-    },
-    {
-      "sku_id": "168858",
-      "nombre": "Anco En Rodajas Rocky-bsa-gr.-300",
+      "sku_id": "18214",
+      "nombre": "Zanahoria Rallada",
       "marca": "ROCKY",
       "categoria": "Verduras Empaquetadas",
-      "precio_hoy": 2199.0,
-      "precio_ref": 10359.37,
-      "diff_pct": -78.77284043334681
+      "precio_hoy": 1199.0,
+      "precio_ref": 10007.89,
+      "diff_pct": -88.01945265185769
     },
     {
-      "sku_id": "246476",
-      "nombre": "Pelón Elegido Por Kg",
+      "sku_id": "148856",
+      "nombre": "Banana X Kg",
       "marca": "VERDULERIA PROPIA",
       "categoria": "Frutas Sueltas",
-      "precio_hoy": 3999.0,
-      "precio_ref": 12154.99,
-      "diff_pct": -67.09993179755804
+      "precio_hoy": 2299.0,
+      "precio_ref": 11405.15,
+      "diff_pct": -79.84243959965454
     },
     {
-      "sku_id": "29317",
-      "nombre": "Ensalada Jardin So",
-      "marca": "SONG",
-      "categoria": "Verduras Procesadas y Ensaladas Listas",
-      "precio_hoy": 998.99,
-      "precio_ref": 2999.0,
-      "diff_pct": -66.68922974324775
+      "sku_id": "248349",
+      "nombre": "Champignon Granel Portobello S/e 1 Kg",
+      "marca": "VERDULERIA PROPIA",
+      "categoria": "Hortalizas Livianas",
+      "precio_hoy": 24999.0,
+      "precio_ref": 100422.39,
+      "diff_pct": -75.10614913666166
     },
     {
-      "sku_id": "5344",
-      "nombre": "Paleta Trozo",
+      "sku_id": "6198",
+      "nombre": "Champigñon Granel   1 Kg",
+      "marca": "VERDULERIA PROPIA",
+      "categoria": "Hortalizas Livianas",
+      "precio_hoy": 24999.0,
+      "precio_ref": 99666.67,
+      "diff_pct": -74.91739214323103
+    },
+    {
+      "sku_id": "148362",
+      "nombre": "Albahaca Orgánica Por U",
+      "marca": "VERDULERIA PROPIA",
+      "categoria": "Verduras Frescas de Hoja",
+      "precio_hoy": 3599.0,
+      "precio_ref": 9999.47,
+      "diff_pct": -64.00809242889873
+    },
+    {
+      "sku_id": "5337",
+      "nombre": "Paleta Americano",
       "marca": "LA HACIENDA",
       "categoria": "Novillito Especial",
-      "precio_hoy": 7538.45,
-      "precio_ref": 17005.0,
-      "diff_pct": -55.6692149367833
+      "precio_hoy": 7333.43,
+      "precio_ref": 17505.0,
+      "diff_pct": -58.106655241359604
     },
     {
-      "sku_id": "47110",
-      "nombre": "Azotillo",
+      "sku_id": "247573",
+      "nombre": "Bife De Chorizo",
       "marca": "LA HACIENDA",
       "categoria": "Novillito Especial",
-      "precio_hoy": 4038.19,
-      "precio_ref": 9035.0,
-      "diff_pct": -55.30503597122301
+      "precio_hoy": 12860.43,
+      "precio_ref": 30619.0,
+      "diff_pct": -57.99853032430844
     },
     {
-      "sku_id": "247564",
-      "nombre": "Carnaza Comun",
-      "marca": "LA HACIENDA",
-      "categoria": "Novillito Especial",
-      "precio_hoy": 4038.19,
-      "precio_ref": 9035.0,
-      "diff_pct": -55.30503597122301
+      "sku_id": "16722",
+      "nombre": "Chaucha Por Kg",
+      "marca": "VERDULERIA PROPIA",
+      "categoria": "Hortalizas Livianas",
+      "precio_hoy": 4599.0,
+      "precio_ref": 8999.83,
+      "diff_pct": -48.89903475954546
     },
     {
-      "sku_id": "27166",
-      "nombre": "Sushi Especial X Un",
-      "marca": "FRESH",
-      "categoria": "Guarniciones",
-      "precio_hoy": 931.29,
-      "precio_ref": 2000.0,
-      "diff_pct": -53.435500000000005
+      "sku_id": "41529",
+      "nombre": "Espinaca Por U",
+      "marca": "SIN MARCA",
+      "categoria": "Verduras Frescas de Hoja",
+      "precio_hoy": 2329.49,
+      "precio_ref": 4299.0,
+      "diff_pct": -45.81321237497093
     },
     {
-      "sku_id": "20066",
-      "nombre": "Entraña Premium La Hacienda",
-      "marca": "LA HACIENDA",
-      "categoria": "La Hacienda Premium",
-      "precio_hoy": 23125.23,
-      "precio_ref": 48499.0,
-      "diff_pct": -52.31813027072724
+      "sku_id": "214056",
+      "nombre": "Tomate Rocky Plaza Vea  S/e 1 Kg",
+      "marca": "VERDULERIA PROPIA",
+      "categoria": "Hortalizas Livianas",
+      "precio_hoy": 4999.0,
+      "precio_ref": 8999.27,
+      "diff_pct": -44.45104991849339
     }
   ]
 }
