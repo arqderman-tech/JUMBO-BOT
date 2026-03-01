@@ -1,182 +1,182 @@
 [
   {
-    "sku_id": "43966",
-    "nombre": "Gamuza Sintética Yellow",
-    "marca": "SD",
-    "categoria": "Accesorios para el Auto",
-    "precio_hoy": 4077.69,
-    "precio_ref": 58.37,
-    "diff_pct": 6885.934555422307
-  },
-  {
-    "sku_id": "3068339",
-    "nombre": "Esponja Alklin Multiuso",
-    "marca": "ALKLIN",
-    "categoria": "Esponjas y Guantes",
-    "precio_hoy": 800.0,
-    "precio_ref": 141.55,
-    "diff_pct": 465.171317555634
-  },
-  {
-    "sku_id": "3068337",
-    "nombre": "Esponja Alklin Antirayon",
-    "marca": "ALKLIN",
-    "categoria": "Esponjas y Guantes",
-    "precio_hoy": 800.0,
-    "precio_ref": 141.55,
-    "diff_pct": 465.171317555634
-  },
-  {
-    "sku_id": "3068336",
-    "nombre": "Esponja Alklin Salvauñas",
-    "marca": "ALKLIN",
-    "categoria": "Esponjas y Guantes",
-    "precio_hoy": 900.0,
-    "precio_ref": 182.0,
-    "diff_pct": 394.50549450549454
-  },
-  {
-    "sku_id": "3068349",
-    "nombre": "Pala Alklin",
-    "marca": "ALKLIN",
-    "categoria": "Palas y Cabos",
-    "precio_hoy": 4750.0,
-    "precio_ref": 1172.87,
-    "diff_pct": 304.9894702737729
-  },
-  {
-    "sku_id": "3068532",
-    "nombre": "Pala Alklin Con Cabo",
-    "marca": "ALKLIN",
-    "categoria": "Palas y Cabos",
-    "precio_hoy": 10700.0,
-    "precio_ref": 2669.29,
-    "diff_pct": 300.85565824620033
-  },
-  {
-    "sku_id": "3068350",
-    "nombre": "Secador Alklin Con Cabo 40cm",
-    "marca": "ALKLIN",
-    "categoria": "Secadores y Cepillos",
-    "precio_hoy": 7900.0,
-    "precio_ref": 2305.3,
-    "diff_pct": 242.6885871686982
-  },
-  {
-    "sku_id": "10382",
-    "nombre": "Ensalada Nutritiva Song 250 Gr",
-    "marca": "SONG",
-    "categoria": "Verduras Procesadas y Ensaladas Listas",
-    "precio_hoy": 10002.29,
-    "precio_ref": 2999.0,
-    "diff_pct": 233.5208402800934
-  },
-  {
-    "sku_id": "24748",
-    "nombre": "Ensalada Hawai Song 500 Gr",
-    "marca": "SONG",
-    "categoria": "Verduras Procesadas y Ensaladas Listas",
-    "precio_hoy": 9998.39,
-    "precio_ref": 2999.0,
-    "diff_pct": 233.39079693231076
-  },
-  {
-    "sku_id": "45885",
-    "nombre": "Brote De Soja Song 500 Gr",
-    "marca": "SONG",
-    "categoria": "Verduras Procesadas y Ensaladas Listas",
-    "precio_hoy": 2999.0,
-    "precio_ref": 999.17,
-    "diff_pct": 200.14912377273134
-  },
-  {
-    "sku_id": "247560",
-    "nombre": "Osobuco",
-    "marca": "LA HACIENDA",
-    "categoria": "Novillito Especial",
-    "precio_hoy": 10915.0,
-    "precio_ref": 3880.19,
-    "diff_pct": 181.30065795747115
-  },
-  {
-    "sku_id": "16919",
-    "nombre": "Dúo De Rúculas Sueño Verde 100 Gr",
-    "marca": "SUEÑO VERDE",
-    "categoria": "Verduras Empaquetadas",
-    "precio_hoy": 9998.69,
-    "precio_ref": 3999.0,
-    "diff_pct": 150.02975743935986
-  },
-  {
-    "sku_id": "5337",
-    "nombre": "Paleta Americano",
-    "marca": "LA HACIENDA",
-    "categoria": "Novillito Especial",
-    "precio_hoy": 17505.0,
-    "precio_ref": 7333.43,
-    "diff_pct": 138.7013989361049
-  },
-  {
-    "sku_id": "247573",
-    "nombre": "Bife De Chorizo",
-    "marca": "LA HACIENDA",
-    "categoria": "Novillito Especial",
-    "precio_hoy": 30619.0,
-    "precio_ref": 12860.43,
-    "diff_pct": 138.08690689191573
-  },
-  {
-    "sku_id": "5344",
-    "nombre": "Paleta Trozo",
-    "marca": "LA HACIENDA",
-    "categoria": "Novillito Especial",
-    "precio_hoy": 17005.0,
-    "precio_ref": 7550.09,
-    "diff_pct": 125.22910322923302
-  },
-  {
-    "sku_id": "47110",
-    "nombre": "Azotillo",
-    "marca": "LA HACIENDA",
-    "categoria": "Novillito Especial",
-    "precio_hoy": 9035.0,
-    "precio_ref": 4044.47,
-    "diff_pct": 123.39144560350309
-  },
-  {
-    "sku_id": "46153",
-    "nombre": "Brotes De Brocoli",
-    "marca": "SUEÑO VERDE",
-    "categoria": "Verduras Procesadas y Ensaladas Listas",
-    "precio_hoy": 9998.95,
-    "precio_ref": 4799.0,
-    "diff_pct": 108.35486559699939
-  },
-  {
-    "sku_id": "46154",
-    "nombre": "Brotes De Berro Sueño Verde",
-    "marca": "SUEÑO VERDE",
-    "categoria": "Verduras Procesadas y Ensaladas Listas",
-    "precio_hoy": 9998.95,
-    "precio_ref": 4799.0,
-    "diff_pct": 108.35486559699939
-  },
-  {
-    "sku_id": "13304",
-    "nombre": "Arañita De Novillito Por Kg",
-    "marca": "LA HACIENDA",
-    "categoria": "Novillito",
-    "precio_hoy": 16599.0,
-    "precio_ref": 8131.99,
-    "diff_pct": 104.11977879953125
-  },
-  {
-    "sku_id": "22131",
-    "nombre": "Ensalada Salanova Con Endivias Buy&eat",
+    "sku_id": "1157",
+    "nombre": "Champignon Frescos Buy&eat 200 Gr",
     "marca": "BUY & EAT",
+    "categoria": "Verduras Empaquetadas",
+    "precio_hoy": 89969.95,
+    "precio_ref": 6299.0,
+    "diff_pct": 1328.3211620892205
+  },
+  {
+    "sku_id": "6198",
+    "nombre": "Champigñon Granel   1 Kg",
+    "marca": "VERDULERIA PROPIA",
+    "categoria": "Hortalizas Livianas",
+    "precio_hoy": 99666.67,
+    "precio_ref": 24999.0,
+    "diff_pct": 298.6826273050922
+  },
+  {
+    "sku_id": "15463",
+    "nombre": "Pan Rallado (p) Pan Rallado Blanco Por Kg",
+    "marca": "PANADERIA PROPIA",
+    "categoria": "Galletas y Bizcochos",
+    "precio_hoy": 14030.69,
+    "precio_ref": 4000.0,
+    "diff_pct": 250.76725
+  },
+  {
+    "sku_id": "20405",
+    "nombre": "Ensalada Oriental Song 500 Gr",
+    "marca": "SONG",
     "categoria": "Verduras Procesadas y Ensaladas Listas",
-    "precio_hoy": 9999.99,
-    "precio_ref": 5399.0,
-    "diff_pct": 85.21929987034636
+    "precio_hoy": 9996.99,
+    "precio_ref": 3199.0,
+    "diff_pct": 212.50359487339793
+  },
+  {
+    "sku_id": "298438",
+    "nombre": "Juego De Tenis De Playa Revest Mor",
+    "marca": "MOR",
+    "categoria": "Deportes y Fitness",
+    "precio_hoy": 24990.0,
+    "precio_ref": 11990.0,
+    "diff_pct": 108.42368640533778
+  },
+  {
+    "sku_id": "32414",
+    "nombre": "Brotes De Alfalfa",
+    "marca": "SUEÑO VERDE",
+    "categoria": "Verduras Procesadas y Ensaladas Listas",
+    "precio_hoy": 9998.95,
+    "precio_ref": 4799.0,
+    "diff_pct": 108.35486559699939
+  },
+  {
+    "sku_id": "46148",
+    "nombre": "Brote De Rabanito",
+    "marca": "SUEÑO VERDE",
+    "categoria": "Verduras Procesadas y Ensaladas Listas",
+    "precio_hoy": 9998.95,
+    "precio_ref": 4799.0,
+    "diff_pct": 108.35486559699939
+  },
+  {
+    "sku_id": "18772",
+    "nombre": "Acelga Buy & Eat 500 Gr",
+    "marca": "BUY & EAT",
+    "categoria": "Verduras Empaquetadas",
+    "precio_hoy": 9998.85,
+    "precio_ref": 4899.0,
+    "diff_pct": 104.0998162890386
+  },
+  {
+    "sku_id": "214056",
+    "nombre": "Tomate Rocky Plaza Vea  S/e 1 Kg",
+    "marca": "VERDULERIA PROPIA",
+    "categoria": "Hortalizas Livianas",
+    "precio_hoy": 8999.27,
+    "precio_ref": 4499.0,
+    "diff_pct": 100.02822849522117
+  },
+  {
+    "sku_id": "16722",
+    "nombre": "Chaucha Por Kg",
+    "marca": "VERDULERIA PROPIA",
+    "categoria": "Hortalizas Livianas",
+    "precio_hoy": 8999.83,
+    "precio_ref": 4599.0,
+    "diff_pct": 95.69101978691019
+  },
+  {
+    "sku_id": "27415",
+    "nombre": "Chorizo Puro Cerdo Al Vacio - 4 U - 320 Grs - Doina",
+    "marca": "DOINA",
+    "categoria": "Chorizos",
+    "precio_hoy": 6599.0,
+    "precio_ref": 3470.63,
+    "diff_pct": 90.13838986005422
+  },
+  {
+    "sku_id": "3081204",
+    "nombre": "Taladro 13mm Inal21v Con Maletin 2bat Goodyear",
+    "marca": "GOODYEAR",
+    "categoria": "Herramientas Eléctricas",
+    "precio_hoy": 139990.0,
+    "precio_ref": 79990.0,
+    "diff_pct": 75.0093761720215
+  },
+  {
+    "sku_id": "3081038",
+    "nombre": "Kit De Herramientas 90 Pcs Con Caja Plastica Goodyear",
+    "marca": "GOODYEAR",
+    "categoria": "Herramientas",
+    "precio_hoy": 99990.0,
+    "precio_ref": 59990.0,
+    "diff_pct": 66.67777962993833
+  },
+  {
+    "sku_id": "33049",
+    "nombre": "Focaccia Tomate",
+    "marca": "FRESH",
+    "categoria": "Panificados",
+    "precio_hoy": 2600.0,
+    "precio_ref": 1650.89,
+    "diff_pct": 57.49080798841836
+  },
+  {
+    "sku_id": "5924",
+    "nombre": "Pimiento Calahorra Bandeja",
+    "marca": "VERDULERIA PROPIA",
+    "categoria": "Verduras Empaquetadas",
+    "precio_hoy": 7999.23,
+    "precio_ref": 5299.0,
+    "diff_pct": 50.957350443479896
+  },
+  {
+    "sku_id": "1370969",
+    "nombre": "Queso Mozzarella Tipo Burratina Cuisine & Co",
+    "marca": "Cuisine & CO",
+    "categoria": "Queso Muzzarella",
+    "precio_hoy": 10165.89,
+    "precio_ref": 6930.0,
+    "diff_pct": 46.69393939393939
+  },
+  {
+    "sku_id": "32009",
+    "nombre": "Zanahoria Rossi Baby 500 Gr",
+    "marca": "SANTA MARIA",
+    "categoria": "Verduras Empaquetadas",
+    "precio_hoy": 3999.09,
+    "precio_ref": 3199.0,
+    "diff_pct": 25.010628321350424
+  },
+  {
+    "sku_id": "10220",
+    "nombre": "Lechuga Criolla Por Kg",
+    "marca": "VERDULERIA PROPIA",
+    "categoria": "Verduras Frescas de Hoja",
+    "precio_hoy": 6077.49,
+    "precio_ref": 4999.0,
+    "diff_pct": 21.57411482296459
+  },
+  {
+    "sku_id": "5385",
+    "nombre": "Tortas Rogel Jumbo 1 Kg",
+    "marca": "FRESH",
+    "categoria": "Tortas y Tartas",
+    "precio_hoy": 22284.45,
+    "precio_ref": 20000.0,
+    "diff_pct": 11.422250000000004
+  },
+  {
+    "sku_id": "1360594",
+    "nombre": "Avena Tradicional Morixe 400 Gr",
+    "marca": "MORIXE",
+    "categoria": "Avenas y Sémolas",
+    "precio_hoy": 2600.0,
+    "precio_ref": 2350.0,
+    "diff_pct": 10.638297872340425
   }
 ]
