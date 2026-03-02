@@ -1,193 +1,157 @@
 {
-  "fecha_actualizacion": "2026-03-01",
-  "total_productos": 58633,
-  "variacion_dia": 0.03,
+  "fecha_actualizacion": "2026-03-02",
+  "total_productos": 58060,
+  "variacion_dia": 0.11,
   "variacion_mes": null,
   "variacion_anio": null,
-  "productos_subieron_dia": 54,
-  "productos_bajaron_dia": 84,
-  "productos_sin_cambio_dia": 58493,
+  "productos_subieron_dia": 269,
+  "productos_bajaron_dia": 174,
+  "productos_sin_cambio_dia": 57601,
   "categorias_dia": [
     {
       "categoria": "Almacén",
-      "variacion_pct_promedio": -0.01,
-      "productos_subieron": 13,
-      "productos_bajaron": 16,
-      "total_productos": 8227
+      "variacion_pct_promedio": 0.08,
+      "productos_subieron": 161,
+      "productos_bajaron": 70,
+      "total_productos": 8108
     },
     {
       "categoria": "Bebidas",
       "variacion_pct_promedio": -0.01,
-      "productos_subieron": 0,
-      "productos_bajaron": 5,
-      "total_productos": 2464
+      "productos_subieron": 6,
+      "productos_bajaron": 7,
+      "total_productos": 2439
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0,
-      "productos_subieron": 2,
-      "productos_bajaron": 4,
-      "total_productos": 448
+      "variacion_pct_promedio": -0.01,
+      "productos_subieron": 0,
+      "productos_bajaron": 2,
+      "total_productos": 436
     },
     {
       "categoria": "Lácteos",
-      "variacion_pct_promedio": -0.01,
+      "variacion_pct_promedio": 0.14,
       "productos_subieron": 10,
-      "productos_bajaron": 8,
-      "total_productos": 1009
+      "productos_bajaron": 6,
+      "total_productos": 990
     },
     {
       "categoria": "Quesos y Fiambres",
-      "variacion_pct_promedio": -0.05,
-      "productos_subieron": 1,
-      "productos_bajaron": 6,
-      "total_productos": 1548
+      "variacion_pct_promedio": 0.17,
+      "productos_subieron": 19,
+      "productos_bajaron": 10,
+      "total_productos": 1527
     },
     {
       "categoria": "Frutas y Verduras",
-      "variacion_pct_promedio": 1.97,
-      "productos_subieron": 14,
-      "productos_bajaron": 10,
-      "total_productos": 1102
+      "variacion_pct_promedio": 4.71,
+      "productos_subieron": 30,
+      "productos_bajaron": 19,
+      "total_productos": 1098
     },
     {
       "categoria": "Carnes",
-      "variacion_pct_promedio": -0.81,
-      "productos_subieron": 1,
-      "productos_bajaron": 20,
-      "total_productos": 773
+      "variacion_pct_promedio": 0.59,
+      "productos_subieron": 16,
+      "productos_bajaron": 16,
+      "total_productos": 769
     },
     {
       "categoria": "Rotiseria",
-      "variacion_pct_promedio": 0,
+      "variacion_pct_promedio": -0.65,
       "productos_subieron": 0,
-      "productos_bajaron": 0,
+      "productos_bajaron": 3,
       "total_productos": 193
     },
     {
       "categoria": "Panaderia y Pasteleria",
-      "variacion_pct_promedio": 0.46,
+      "variacion_pct_promedio": 0.41,
       "productos_subieron": 3,
-      "productos_bajaron": 4,
+      "productos_bajaron": 5,
       "total_productos": 384
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0,
-      "productos_subieron": 1,
-      "productos_bajaron": 2,
-      "total_productos": 2159
+      "variacion_pct_promedio": -0.01,
+      "productos_subieron": 2,
+      "productos_bajaron": 6,
+      "total_productos": 2117
     },
     {
       "categoria": "Perfumería",
-      "variacion_pct_promedio": 0,
-      "productos_subieron": 6,
-      "productos_bajaron": 8,
-      "total_productos": 3655
+      "variacion_pct_promedio": 0.01,
+      "productos_subieron": 15,
+      "productos_bajaron": 7,
+      "total_productos": 3594
     },
     {
       "categoria": "Mascotas",
-      "variacion_pct_promedio": 0,
+      "variacion_pct_promedio": -0.02,
       "productos_subieron": 0,
-      "productos_bajaron": 0,
+      "productos_bajaron": 1,
       "total_productos": 229
     },
     {
       "categoria": "Hogar y textil",
-      "variacion_pct_promedio": 0.01,
-      "productos_subieron": 2,
-      "productos_bajaron": 0,
-      "total_productos": 20759
+      "variacion_pct_promedio": -0.01,
+      "productos_subieron": 4,
+      "productos_bajaron": 21,
+      "total_productos": 20595
     },
     {
       "categoria": "Mundo Bebe",
       "variacion_pct_promedio": 0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "total_productos": 153
+      "productos_subieron": 2,
+      "productos_bajaron": 1,
+      "total_productos": 151
     },
     {
       "categoria": "Electro",
       "variacion_pct_promedio": 0,
-      "productos_subieron": 0,
+      "productos_subieron": 1,
       "productos_bajaron": 0,
-      "total_productos": 2984
+      "total_productos": 2953
     },
     {
       "categoria": "Tiempo Libre",
       "variacion_pct_promedio": 0,
-      "productos_subieron": 1,
-      "productos_bajaron": 1,
-      "total_productos": 12544
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 12461
     }
   ],
   "ranking_baja_dia": [
     {
-      "sku_id": "274493",
-      "nombre": "Tejo De Goma 10cm",
-      "marca": "SIN MARCA",
-      "categoria": "Deportes y Fitness",
-      "precio_hoy": 29990.0,
-      "precio_ref": 399990.0,
-      "diff_pct": -92.50231255781395
+      "sku_id": "1157",
+      "nombre": "Champignon Frescos Buy&eat 200 Gr",
+      "marca": "BUY & EAT",
+      "categoria": "Verduras Empaquetadas",
+      "precio_hoy": 6299.0,
+      "precio_ref": 89969.95,
+      "diff_pct": -92.99877347936729
     },
     {
-      "sku_id": "148739",
-      "nombre": "Ensalada Mix Lechuga Song 250 Gr",
+      "sku_id": "2081",
+      "nombre": "Ensalada Del Chef 1 Un Fresh Ensalada Del Chef 1 Un",
+      "marca": "ELABORACION PROPIA",
+      "categoria": "Ensaladas",
+      "precio_hoy": 3229.89,
+      "precio_ref": 9999.0,
+      "diff_pct": -67.6978697869787
+    },
+    {
+      "sku_id": "10336",
+      "nombre": "Zanahoria Song 200 Gr",
       "marca": "SONG",
       "categoria": "Verduras Procesadas y Ensaladas Listas",
-      "precio_hoy": 998.87,
-      "precio_ref": 3199.0,
-      "diff_pct": -68.77555486089403
+      "precio_hoy": 998.89,
+      "precio_ref": 2999.0,
+      "diff_pct": -66.69256418806269
     },
     {
-      "sku_id": "247560",
-      "nombre": "Osobuco",
-      "marca": "LA HACIENDA",
-      "categoria": "Novillito Especial",
-      "precio_hoy": 3859.95,
-      "precio_ref": 10915.0,
-      "diff_pct": -64.63628034814477
-    },
-    {
-      "sku_id": "5348",
-      "nombre": "Roast Beef Churrasco",
-      "marca": "LA HACIENDA",
-      "categoria": "Novillito Especial",
-      "precio_hoy": 6415.99,
-      "precio_ref": 16655.0,
-      "diff_pct": -61.47709396577604
-    },
-    {
-      "sku_id": "247576",
-      "nombre": "Matambre",
-      "marca": "LA HACIENDA",
-      "categoria": "Novillito Especial",
-      "precio_hoy": 10250.69,
-      "precio_ref": 26509.0,
-      "diff_pct": -61.33128371496473
-    },
-    {
-      "sku_id": "5337",
-      "nombre": "Paleta Americano",
-      "marca": "LA HACIENDA",
-      "categoria": "Novillito Especial",
-      "precio_hoy": 7295.17,
-      "precio_ref": 17505.0,
-      "diff_pct": -58.3252213653242
-    },
-    {
-      "sku_id": "247573",
-      "nombre": "Bife De Chorizo",
-      "marca": "LA HACIENDA",
-      "categoria": "Novillito Especial",
-      "precio_hoy": 12793.35,
-      "precio_ref": 30619.0,
-      "diff_pct": -58.21760998073092
-    },
-    {
-      "sku_id": "5344",
-      "nombre": "Paleta Trozo",
+      "sku_id": "246973",
+      "nombre": "Paleta Churrasco",
       "marca": "LA HACIENDA",
       "categoria": "Novillito Especial",
       "precio_hoy": 7510.69,
@@ -195,22 +159,58 @@
       "diff_pct": -55.83246104087034
     },
     {
-      "sku_id": "47110",
-      "nombre": "Azotillo",
-      "marca": "LA HACIENDA",
-      "categoria": "Novillito Especial",
-      "precio_hoy": 4023.37,
-      "precio_ref": 9035.0,
-      "diff_pct": -55.46906474820143
+      "sku_id": "268497",
+      "nombre": "Bizcochuelo Humedo Bañado",
+      "marca": "SIN MARCA",
+      "categoria": "Tortas y Tartas",
+      "precio_hoy": 6359.17,
+      "precio_ref": 14000.0,
+      "diff_pct": -54.57735714285714
     },
     {
-      "sku_id": "262616",
-      "nombre": "Pan Multigrano",
-      "marca": "FRESH",
-      "categoria": "Panificados",
-      "precio_hoy": 3364.95,
-      "precio_ref": 7500.0,
-      "diff_pct": -55.13400000000001
+      "sku_id": "46153",
+      "nombre": "Brotes De Brocoli",
+      "marca": "SUEÑO VERDE",
+      "categoria": "Verduras Procesadas y Ensaladas Listas",
+      "precio_hoy": 4799.0,
+      "precio_ref": 9998.95,
+      "diff_pct": -52.004960520854695
+    },
+    {
+      "sku_id": "32414",
+      "nombre": "Brotes De Alfalfa",
+      "marca": "SUEÑO VERDE",
+      "categoria": "Verduras Procesadas y Ensaladas Listas",
+      "precio_hoy": 4799.0,
+      "precio_ref": 9998.95,
+      "diff_pct": -52.004960520854695
+    },
+    {
+      "sku_id": "27415",
+      "nombre": "Chorizo Puro Cerdo Al Vacio - 4 U - 320 Grs - Doina",
+      "marca": "DOINA",
+      "categoria": "Chorizos",
+      "precio_hoy": 3470.63,
+      "precio_ref": 6599.0,
+      "diff_pct": -47.40672829216548
+    },
+    {
+      "sku_id": "22131",
+      "nombre": "Ensalada Salanova Con Endivias Buy&eat",
+      "marca": "BUY & EAT",
+      "categoria": "Verduras Procesadas y Ensaladas Listas",
+      "precio_hoy": 5399.0,
+      "precio_ref": 9999.99,
+      "diff_pct": -46.009946009946006
+    },
+    {
+      "sku_id": "41191",
+      "nombre": "Ensalada Salanova Con Escarola Buy&eat",
+      "marca": "BUY & EAT",
+      "categoria": "Verduras Procesadas y Ensaladas Listas",
+      "precio_hoy": 5399.0,
+      "precio_ref": 9999.99,
+      "diff_pct": -46.009946009946006
     }
   ]
 }
