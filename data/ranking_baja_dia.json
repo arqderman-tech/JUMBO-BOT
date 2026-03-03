@@ -1,182 +1,182 @@
 [
   {
-    "sku_id": "1157",
-    "nombre": "Champignon Frescos Buy&eat 200 Gr",
-    "marca": "BUY & EAT",
-    "categoria": "Verduras Empaquetadas",
-    "precio_hoy": 6299.0,
-    "precio_ref": 89969.95,
-    "diff_pct": -92.99877347936729
+    "sku_id": "385145",
+    "nombre": "Melon Trozado X Kilo",
+    "marca": "SIN MARCA",
+    "categoria": "Frutas Empaquetadas",
+    "precio_hoy": 473.57,
+    "precio_ref": 4466.27,
+    "diff_pct": -89.39674493481137
   },
   {
-    "sku_id": "2081",
-    "nombre": "Ensalada Del Chef 1 Un Fresh Ensalada Del Chef 1 Un",
-    "marca": "ELABORACION PROPIA",
-    "categoria": "Ensaladas",
-    "precio_hoy": 3229.89,
-    "precio_ref": 9999.0,
-    "diff_pct": -67.6978697869787
+    "sku_id": "347985",
+    "nombre": "Pack Choi Verde Orgánico X Unidad",
+    "marca": "VERDULERIA PROPIA",
+    "categoria": "Verduras Frescas de Hoja",
+    "precio_hoy": 499.0,
+    "precio_ref": 3027.55,
+    "diff_pct": -83.51802612673615
   },
   {
-    "sku_id": "10336",
-    "nombre": "Zanahoria Song 200 Gr",
+    "sku_id": "32442",
+    "nombre": "Pechuga De Pollo",
+    "marca": "GRANJA PROPIA",
+    "categoria": "Pollos",
+    "precio_hoy": 1861.75,
+    "precio_ref": 7635.69,
+    "diff_pct": -75.61778961691739
+  },
+  {
+    "sku_id": "6198",
+    "nombre": "Champigñon Granel   1 Kg",
+    "marca": "VERDULERIA PROPIA",
+    "categoria": "Hortalizas Livianas",
+    "precio_hoy": 24999.0,
+    "precio_ref": 99666.67,
+    "diff_pct": -74.91739214323103
+  },
+  {
+    "sku_id": "33002",
+    "nombre": "Pechuga De Pollo Sin Piel",
+    "marca": "GRANJA PROPIA",
+    "categoria": "Pollos",
+    "precio_hoy": 2623.57,
+    "precio_ref": 9462.57,
+    "diff_pct": -72.27423416682784
+  },
+  {
+    "sku_id": "20291",
+    "nombre": "Cazuela De Hortalizas 1 U",
     "marca": "SONG",
     "categoria": "Verduras Procesadas y Ensaladas Listas",
-    "precio_hoy": 998.89,
+    "precio_hoy": 998.79,
     "precio_ref": 2999.0,
-    "diff_pct": -66.69256418806269
+    "diff_pct": -66.69589863287763
   },
   {
-    "sku_id": "246973",
-    "nombre": "Paleta Churrasco",
+    "sku_id": "10430",
+    "nombre": "Verduritas De Invierno",
+    "marca": "SONG",
+    "categoria": "Verduras Procesadas y Ensaladas Listas",
+    "precio_hoy": 999.19,
+    "precio_ref": 2699.0,
+    "diff_pct": -62.97925157465728
+  },
+  {
+    "sku_id": "43498",
+    "nombre": "Champignon Blanco",
+    "marca": "HONGOS DEL PILAR",
+    "categoria": "Verduras Empaquetadas",
+    "precio_hoy": 5299.0,
+    "precio_ref": 9988.99,
+    "diff_pct": -46.95159370466884
+  },
+  {
+    "sku_id": "347812",
+    "nombre": "Aguja Novillito Ca",
     "marca": "LA HACIENDA",
-    "categoria": "Novillito Especial",
-    "precio_hoy": 7510.69,
-    "precio_ref": 17005.0,
-    "diff_pct": -55.83246104087034
+    "categoria": "Novillito",
+    "precio_hoy": 10169.55,
+    "precio_ref": 17809.89,
+    "diff_pct": -42.89942273646833
   },
   {
-    "sku_id": "268497",
-    "nombre": "Bizcochuelo Humedo Bañado",
-    "marca": "SIN MARCA",
-    "categoria": "Tortas y Tartas",
-    "precio_hoy": 6359.17,
-    "precio_ref": 14000.0,
-    "diff_pct": -54.57735714285714
-  },
-  {
-    "sku_id": "46153",
-    "nombre": "Brotes De Brocoli",
-    "marca": "SUEÑO VERDE",
-    "categoria": "Verduras Procesadas y Ensaladas Listas",
-    "precio_hoy": 4799.0,
-    "precio_ref": 9998.95,
-    "diff_pct": -52.004960520854695
-  },
-  {
-    "sku_id": "32414",
-    "nombre": "Brotes De Alfalfa",
-    "marca": "SUEÑO VERDE",
-    "categoria": "Verduras Procesadas y Ensaladas Listas",
-    "precio_hoy": 4799.0,
-    "precio_ref": 9998.95,
-    "diff_pct": -52.004960520854695
-  },
-  {
-    "sku_id": "27415",
-    "nombre": "Chorizo Puro Cerdo Al Vacio - 4 U - 320 Grs - Doina",
-    "marca": "DOINA",
+    "sku_id": "41215",
+    "nombre": "Chorizo Bombón Gancho X Kg - La Criolla",
+    "marca": "CABAÑA LA CRIOLLA",
     "categoria": "Chorizos",
-    "precio_hoy": 3470.63,
-    "precio_ref": 6599.0,
-    "diff_pct": -47.40672829216548
-  },
-  {
-    "sku_id": "22131",
-    "nombre": "Ensalada Salanova Con Endivias Buy&eat",
-    "marca": "BUY & EAT",
-    "categoria": "Verduras Procesadas y Ensaladas Listas",
-    "precio_hoy": 5399.0,
-    "precio_ref": 9999.99,
-    "diff_pct": -46.009946009946006
-  },
-  {
-    "sku_id": "41191",
-    "nombre": "Ensalada Salanova Con Escarola Buy&eat",
-    "marca": "BUY & EAT",
-    "categoria": "Verduras Procesadas y Ensaladas Listas",
-    "precio_hoy": 5399.0,
-    "precio_ref": 9999.99,
-    "diff_pct": -46.009946009946006
-  },
-  {
-    "sku_id": "33302",
-    "nombre": "Papa Malla Fraccionada 1 Kg",
-    "marca": "VERDULERIA PROPIA",
-    "categoria": "Verduras Empaquetadas",
-    "precio_hoy": 2486.25,
-    "precio_ref": 4299.0,
-    "diff_pct": -42.16678297278437
-  },
-  {
-    "sku_id": "33049",
-    "nombre": "Focaccia Tomate",
-    "marca": "FRESH",
-    "categoria": "Panificados",
-    "precio_hoy": 1650.89,
-    "precio_ref": 2600.0,
-    "diff_pct": -36.504230769230766
-  },
-  {
-    "sku_id": "3067570",
-    "nombre": "Tarta Calabaza Cong.",
-    "marca": "FRESH",
-    "categoria": "Guarniciones",
-    "precio_hoy": 4795.59,
-    "precio_ref": 7500.0,
-    "diff_pct": -36.0588
-  },
-  {
-    "sku_id": "8415",
-    "nombre": "Queso Burrata Wapi 250 Gr",
-    "marca": "WAPI",
-    "categoria": "Quesos Especiales e Importados",
-    "precio_hoy": 7919.45,
-    "precio_ref": 12255.0,
-    "diff_pct": -35.37780497756018
-  },
-  {
-    "sku_id": "152921",
-    "nombre": "Matambre De Novillito Congelado",
-    "marca": "SIN MARCA",
-    "categoria": "Novillito",
-    "precio_hoy": 10408.91,
-    "precio_ref": 15999.0,
-    "diff_pct": -34.940246265391586
-  },
-  {
-    "sku_id": "11882",
-    "nombre": "Ricota Arrivata Con Crema 300 Gr",
-    "marca": "ARRIVATA",
-    "categoria": "Ricota",
-    "precio_hoy": 2862.19,
-    "precio_ref": 4244.0,
-    "diff_pct": -32.55914231856739
-  },
-  {
-    "sku_id": "41757",
-    "nombre": "Galletas Integral Cuadradas Con Sal 110 Gr Arrozen",
-    "marca": "ARROZEN",
-    "categoria": "Galletitas Saladas",
-    "precio_hoy": 1300.0,
-    "precio_ref": 1900.0,
-    "diff_pct": -31.57894736842105
-  },
-  {
-    "sku_id": "40465",
-    "nombre": "Fideos Spaghetti Saborizados De Cecco 500 Gr",
-    "marca": "DE CECCO",
-    "categoria": "Pastas Secas Largas",
-    "precio_hoy": 9560.0,
-    "precio_ref": 13900.0,
-    "diff_pct": -31.22302158273381
-  },
-  {
-    "sku_id": "1156",
-    "nombre": "Espinaca Buy&eat 300 Gr",
-    "marca": "BUY & EAT",
-    "categoria": "Verduras Empaquetadas",
-    "precio_hoy": 6899.0,
-    "precio_ref": 9997.89,
-    "diff_pct": -30.99544003784798
-  },
-  {
-    "sku_id": "152653",
-    "nombre": "Asado Congelado",
-    "marca": "SIN MARCA",
-    "categoria": "Novillito",
-    "precio_hoy": 9354.15,
+    "precio_hoy": 8220.27,
     "precio_ref": 13499.0,
-    "diff_pct": -30.7048670271872
+    "diff_pct": -39.10460034076598
+  },
+  {
+    "sku_id": "385143",
+    "nombre": "Sandia Trozada X Kilo",
+    "marca": "SIN MARCA",
+    "categoria": "Frutas Empaquetadas",
+    "precio_hoy": 473.57,
+    "precio_ref": 757.69,
+    "diff_pct": -37.49818527366074
+  },
+  {
+    "sku_id": "123356",
+    "nombre": "Pimiento Morron Amarillo Plaza Vea",
+    "marca": "VERDULERIA PROPIA",
+    "categoria": "Hortalizas Livianas",
+    "precio_hoy": 4898.05,
+    "precio_ref": 7599.0,
+    "diff_pct": -35.54349256481116
+  },
+  {
+    "sku_id": "10234",
+    "nombre": "Manzana Royal Gala Por Kg",
+    "marca": "VERDULERIA PROPIA",
+    "categoria": "Frutas Sueltas",
+    "precio_hoy": 2999.0,
+    "precio_ref": 4499.0,
+    "diff_pct": -33.34074238719715
+  },
+  {
+    "sku_id": "20822",
+    "nombre": "Berenjena Orgánica Por Kg",
+    "marca": "VERDULERIA PROPIA",
+    "categoria": "Verduras Frescas de Hoja",
+    "precio_hoy": 3999.0,
+    "precio_ref": 5997.53,
+    "diff_pct": -33.32255111687644
+  },
+  {
+    "sku_id": "343107",
+    "nombre": "Queso Burrata 200 Grs Cuisine & Co",
+    "marca": "Cuisine & CO",
+    "categoria": "Queso Muzzarella",
+    "precio_hoy": 8950.0,
+    "precio_ref": 13367.47,
+    "diff_pct": -33.04641790854963
+  },
+  {
+    "sku_id": "1370969",
+    "nombre": "Queso Mozzarella Tipo Burratina Cuisine & Co",
+    "marca": "Cuisine & CO",
+    "categoria": "Queso Muzzarella",
+    "precio_hoy": 6930.0,
+    "precio_ref": 10165.89,
+    "diff_pct": -31.830857898324687
+  },
+  {
+    "sku_id": "409122",
+    "nombre": "Tapa Para Empanadas La Salteña Hojaldradas",
+    "marca": "LA SALTEÑA",
+    "categoria": "Tapas",
+    "precio_hoy": 2250.0,
+    "precio_ref": 3228.29,
+    "diff_pct": -30.30365921277209
+  },
+  {
+    "sku_id": "3074132",
+    "nombre": "Salsa Ahumada Para Hamburguesas X 250 Ml Kuhne",
+    "marca": "KUHNE",
+    "categoria": "Otros Condimentos",
+    "precio_hoy": 5800.0,
+    "precio_ref": 8300.0,
+    "diff_pct": -30.120481927710845
+  },
+  {
+    "sku_id": "339755",
+    "nombre": "Salsa Barbacoa Ahumada Picante Kuhne 250 Ml",
+    "marca": "KUHNE",
+    "categoria": "Otros Condimentos",
+    "precio_hoy": 5800.0,
+    "precio_ref": 8300.0,
+    "diff_pct": -30.120481927710845
+  },
+  {
+    "sku_id": "339753",
+    "nombre": "Salsas Gourmet Curry Frasco  250 Cc",
+    "marca": "KUHNE",
+    "categoria": "Otros Condimentos",
+    "precio_hoy": 5800.0,
+    "precio_ref": 8300.0,
+    "diff_pct": -30.120481927710845
   }
 ]
