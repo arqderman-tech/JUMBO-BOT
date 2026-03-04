@@ -1,182 +1,182 @@
 [
   {
-    "sku_id": "3069094",
-    "nombre": "Smart Tv Led Full Hd 43' Pne040291 Bgh",
-    "marca": "BGH",
-    "categoria": "Televisores",
-    "precio_hoy": 667153.27,
+    "sku_id": "3072312",
+    "nombre": "Rack Para Tv Rattan Bali Rattan",
+    "marca": "M Design",
+    "categoria": "Muebles de Living",
+    "precio_hoy": 279900.0,
     "precio_ref": 2016.67,
-    "diff_pct": 32981.925649709665
+    "diff_pct": 13779.315901957187
   },
   {
-    "sku_id": "44293",
-    "nombre": "Radicheta Rocky 100 Gr",
-    "marca": "ROCKY",
-    "categoria": "Verduras Procesadas y Ensaladas Listas",
-    "precio_hoy": 141867.7,
-    "precio_ref": 3699.0,
-    "diff_pct": 3735.2987293863207
+    "sku_id": "3072311",
+    "nombre": "Mueble Florencia 2 Cajones 64x30x117 Cm M Design",
+    "marca": "M Design",
+    "categoria": "Muebles de Living",
+    "precio_hoy": 279900.0,
+    "precio_ref": 2016.67,
+    "diff_pct": 13779.315901957187
   },
   {
-    "sku_id": "18214",
-    "nombre": "Zanahoria Rallada",
-    "marca": "ROCKY",
+    "sku_id": "3072310",
+    "nombre": "Escritorio Florencia 3 Cajones 120x40x80 Cm M Design",
+    "marca": "M Design",
+    "categoria": "Muebles de Oficina",
+    "precio_hoy": 279900.0,
+    "precio_ref": 2016.67,
+    "diff_pct": 13779.315901957187
+  },
+  {
+    "sku_id": "3072308",
+    "nombre": "Mesa De Centro Saltillo 105x70x45 Cm M Design",
+    "marca": "M Design",
+    "categoria": "Muebles de Living",
+    "precio_hoy": 189900.0,
+    "precio_ref": 2016.67,
+    "diff_pct": 9316.51336113494
+  },
+  {
+    "sku_id": "3072309",
+    "nombre": "Rack Para Tv Edgar 124x33x45 Cm Natural M Design",
+    "marca": "M Design",
+    "categoria": "Muebles de Living",
+    "precio_hoy": 119900.0,
+    "precio_ref": 2016.67,
+    "diff_pct": 5845.444718273193
+  },
+  {
+    "sku_id": "18745",
+    "nombre": "Acelga Bolsa Sueño Verde 400 Gr",
+    "marca": "SUEÑO VERDE",
     "categoria": "Verduras Empaquetadas",
-    "precio_hoy": 10007.89,
-    "precio_ref": 1999.0,
-    "diff_pct": 400.6448224112056
+    "precio_hoy": 21436.99,
+    "precio_ref": 3999.0,
+    "diff_pct": 436.0587646911728
   },
   {
-    "sku_id": "273357",
-    "nombre": "Pan Altamura Fresh",
+    "sku_id": "32442",
+    "nombre": "Pechuga De Pollo",
+    "marca": "GRANJA PROPIA",
+    "categoria": "Pollos",
+    "precio_hoy": 7635.69,
+    "precio_ref": 1861.75,
+    "diff_pct": 310.1350879548811
+  },
+  {
+    "sku_id": "33002",
+    "nombre": "Pechuga De Pollo Sin Piel",
+    "marca": "GRANJA PROPIA",
+    "categoria": "Pollos",
+    "precio_hoy": 10760.09,
+    "precio_ref": 2623.57,
+    "diff_pct": 310.13161455573896
+  },
+  {
+    "sku_id": "2081",
+    "nombre": "Ensalada Del Chef 1 Un Fresh Ensalada Del Chef 1 Un",
     "marca": "ELABORACION PROPIA",
-    "categoria": "Panificados",
-    "precio_hoy": 4000.0,
-    "precio_ref": 821.69,
-    "diff_pct": 386.80159184120527
+    "categoria": "Ensaladas",
+    "precio_hoy": 9999.0,
+    "precio_ref": 3215.25,
+    "diff_pct": 210.98670398880336
   },
   {
-    "sku_id": "352921",
-    "nombre": "Escurridor Rubber Krea",
-    "marca": "KREA",
-    "categoria": "Accesorios Plásticos",
-    "precio_hoy": 28695.0,
-    "precio_ref": 8675.0,
-    "diff_pct": 230.77809798270894
-  },
-  {
-    "sku_id": "262616",
-    "nombre": "Pan Multigrano",
-    "marca": "FRESH",
-    "categoria": "Panificados",
-    "precio_hoy": 7500.0,
-    "precio_ref": 3364.95,
-    "diff_pct": 122.88592698257033
-  },
-  {
-    "sku_id": "26158",
-    "nombre": "Jengibre Buy&eat.",
-    "marca": "BUY & EAT",
+    "sku_id": "10336",
+    "nombre": "Zanahoria Song 200 Gr",
+    "marca": "SONG",
     "categoria": "Verduras Procesadas y Ensaladas Listas",
-    "precio_hoy": 10000.83,
-    "precio_ref": 4499.0,
-    "diff_pct": 122.29006445876863
+    "precio_hoy": 2999.0,
+    "precio_ref": 998.89,
+    "diff_pct": 200.23325891739833
   },
   {
-    "sku_id": "313945",
-    "nombre": "Cafetera Italiana - Capacidad 6 Tazas",
-    "marca": "KREA",
-    "categoria": "Infusiones",
-    "precio_hoy": 39489.0,
-    "precio_ref": 20159.0,
-    "diff_pct": 95.88769284190684
+    "sku_id": "85906",
+    "nombre": "Semillas De Zapallo",
+    "marca": "SIN MARCA",
+    "categoria": "Frutas Secas y Desecadas",
+    "precio_hoy": 26999.0,
+    "precio_ref": 9361.33,
+    "diff_pct": 188.40987338337607
   },
   {
-    "sku_id": "31677",
-    "nombre": "Pizza De Muzzarella X 1 Un Pizza De Muzzarella X 1 U",
-    "marca": "JUMBO ARTESANAL",
-    "categoria": "Pizzas y Focaccias",
-    "precio_hoy": 8000.0,
-    "precio_ref": 4125.49,
-    "diff_pct": 93.91635902644293
+    "sku_id": "5348",
+    "nombre": "Roast Beef Churrasco",
+    "marca": "LA HACIENDA",
+    "categoria": "Novillito Especial",
+    "precio_hoy": 17485.0,
+    "precio_ref": 6427.29,
+    "diff_pct": 172.04311615004144
   },
   {
-    "sku_id": "303534",
-    "nombre": "Sandwich (s)",
-    "marca": "ELABORACION PROPIA",
-    "categoria": "Sandwiches de Miga",
-    "precio_hoy": 2644.23,
-    "precio_ref": 1429.05,
-    "diff_pct": 85.03411357195341
+    "sku_id": "10430",
+    "nombre": "Verduritas De Invierno",
+    "marca": "SONG",
+    "categoria": "Verduras Procesadas y Ensaladas Listas",
+    "precio_hoy": 2699.0,
+    "precio_ref": 999.19,
+    "diff_pct": 170.1187962249422
   },
   {
-    "sku_id": "10245",
-    "nombre": "Ciruela Amarilla X Kg",
+    "sku_id": "22159",
+    "nombre": "Ensalada Vegetariana Sueño Verde 300 Gr",
+    "marca": "SUEÑO VERDE",
+    "categoria": "Verduras Procesadas y Ensaladas Listas",
+    "precio_hoy": 5899.0,
+    "precio_ref": 2340.09,
+    "diff_pct": 152.08432154318848
+  },
+  {
+    "sku_id": "247573",
+    "nombre": "Bife De Chorizo",
+    "marca": "LA HACIENDA",
+    "categoria": "Novillito Especial",
+    "precio_hoy": 32149.0,
+    "precio_ref": 12815.89,
+    "diff_pct": 150.85265244942022
+  },
+  {
+    "sku_id": "246973",
+    "nombre": "Paleta Churrasco",
+    "marca": "LA HACIENDA",
+    "categoria": "Novillito Especial",
+    "precio_hoy": 17855.0,
+    "precio_ref": 7523.95,
+    "diff_pct": 137.30886037254365
+  },
+  {
+    "sku_id": "15927",
+    "nombre": "Asado Americano Premium",
+    "marca": "LA HACIENDA",
+    "categoria": "La Hacienda Premium",
+    "precio_hoy": 29749.0,
+    "precio_ref": 13488.17,
+    "diff_pct": 120.55623557532267
+  },
+  {
+    "sku_id": "85388",
+    "nombre": "Provenzal",
     "marca": "VERDULERIA PROPIA",
-    "categoria": "Frutas Sueltas",
-    "precio_hoy": 4499.0,
-    "precio_ref": 2490.35,
-    "diff_pct": 80.65733732206317
+    "categoria": "Frutas Secas y Desecadas",
+    "precio_hoy": 13999.0,
+    "precio_ref": 7120.79,
+    "diff_pct": 96.59335551252039
   },
   {
-    "sku_id": "3077770",
-    "nombre": "Queso De Cerdo Feteado X Kg Don Ramon",
-    "marca": "DON RAMON",
-    "categoria": "Otros Fiambres",
-    "precio_hoy": 49065.07,
-    "precio_ref": 30685.67,
-    "diff_pct": 59.895710277794166
+    "sku_id": "27415",
+    "nombre": "Chorizo Puro Cerdo Al Vacio - 4 U - 320 Grs - Doina",
+    "marca": "DOINA",
+    "categoria": "Chorizos",
+    "precio_hoy": 6599.0,
+    "precio_ref": 3470.63,
+    "diff_pct": 90.13838986005422
   },
   {
-    "sku_id": "254398",
-    "nombre": "Escurridor Metalico Básico Con Bandeja Krea",
-    "marca": "KREA",
-    "categoria": "Accesorios Plásticos",
-    "precio_hoy": 36495.0,
-    "precio_ref": 24305.0,
-    "diff_pct": 50.15428924089693
-  },
-  {
-    "sku_id": "31263",
-    "nombre": "Cazuela De Marisco Cazuela (r)",
-    "marca": "ELABORACION PROPIA",
-    "categoria": "Minutas",
-    "precio_hoy": 11284.87,
-    "precio_ref": 7621.89,
-    "diff_pct": 48.05868360734674
-  },
-  {
-    "sku_id": "167707",
-    "nombre": "Melón Amarillo Por Kg",
-    "marca": "VERDULERIA PROPIA",
-    "categoria": "Frutas Sueltas",
-    "precio_hoy": 2272.77,
-    "precio_ref": 1546.99,
-    "diff_pct": 46.915623242554894
-  },
-  {
-    "sku_id": "1156",
-    "nombre": "Espinaca Buy&eat 300 Gr",
-    "marca": "BUY & EAT",
-    "categoria": "Verduras Empaquetadas",
-    "precio_hoy": 9997.89,
-    "precio_ref": 6899.0,
-    "diff_pct": 44.917959124510794
-  },
-  {
-    "sku_id": "29028",
-    "nombre": "Queso Sancor Pategras 240 Gr",
-    "marca": "SANCOR",
-    "categoria": "Quesos Semiblandos",
-    "precio_hoy": 9369.0,
-    "precio_ref": 6546.59,
-    "diff_pct": 43.11267392642581
-  },
-  {
-    "sku_id": "342168",
-    "nombre": "Burrata Festa Pote X 200 Gr",
-    "marca": "FESTA",
-    "categoria": "Quesos Especiales e Importados",
-    "precio_hoy": 8900.0,
-    "precio_ref": 6266.49,
-    "diff_pct": 42.02528049992899
-  },
-  {
-    "sku_id": "31775",
-    "nombre": "Arroz (r)",
-    "marca": "FRESH",
-    "categoria": "Minutas",
-    "precio_hoy": 18778.29,
-    "precio_ref": 13293.99,
-    "diff_pct": 41.25398018202211
-  },
-  {
-    "sku_id": "574",
-    "nombre": "Chimichurri La Parmesana 300 Gr",
-    "marca": "LA PARMESANA",
-    "categoria": "Otros Condimentos",
-    "precio_hoy": 3200.0,
-    "precio_ref": 2300.0,
-    "diff_pct": 39.130434782608695
+    "sku_id": "15996",
+    "nombre": "Medallon De Ojo De Bife Premium",
+    "marca": "LA HACIENDA",
+    "categoria": "La Hacienda Premium",
+    "precio_hoy": 48499.0,
+    "precio_ref": 26167.89,
+    "diff_pct": 85.33783197651779
   }
 ]
