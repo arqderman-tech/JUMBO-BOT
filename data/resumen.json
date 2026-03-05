@@ -1,107 +1,107 @@
 {
-  "fecha_actualizacion": "2026-03-04",
-  "total_productos": 58196,
-  "variacion_dia": 1.03,
+  "fecha_actualizacion": "2026-03-05",
+  "total_productos": 58286,
+  "variacion_dia": 8.47,
   "variacion_mes": null,
   "variacion_anio": null,
-  "productos_subieron_dia": 457,
-  "productos_bajaron_dia": 157,
-  "productos_sin_cambio_dia": 57569,
+  "productos_subieron_dia": 603,
+  "productos_bajaron_dia": 293,
+  "productos_sin_cambio_dia": 57299,
   "categorias_dia": [
     {
       "categoria": "Almacén",
-      "variacion_pct_promedio": 0.04,
-      "productos_subieron": 36,
-      "productos_bajaron": 26,
-      "total_productos": 8116
+      "variacion_pct_promedio": 0.09,
+      "productos_subieron": 253,
+      "productos_bajaron": 131,
+      "total_productos": 8115
     },
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": 0.04,
-      "productos_subieron": 15,
-      "productos_bajaron": 5,
+      "variacion_pct_promedio": -0.03,
+      "productos_subieron": 20,
+      "productos_bajaron": 29,
       "total_productos": 2439
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.02,
-      "productos_subieron": 5,
-      "productos_bajaron": 1,
+      "variacion_pct_promedio": 0.01,
+      "productos_subieron": 6,
+      "productos_bajaron": 3,
       "total_productos": 436
     },
     {
       "categoria": "Lácteos",
-      "variacion_pct_promedio": 0.03,
-      "productos_subieron": 15,
-      "productos_bajaron": 3,
-      "total_productos": 991
+      "variacion_pct_promedio": -0.01,
+      "productos_subieron": 60,
+      "productos_bajaron": 52,
+      "total_productos": 992
     },
     {
       "categoria": "Quesos y Fiambres",
-      "variacion_pct_promedio": 0.02,
-      "productos_subieron": 29,
-      "productos_bajaron": 6,
-      "total_productos": 1527
+      "variacion_pct_promedio": 0.19,
+      "productos_subieron": 80,
+      "productos_bajaron": 8,
+      "total_productos": 1536
     },
     {
       "categoria": "Frutas y Verduras",
-      "variacion_pct_promedio": 0.83,
-      "productos_subieron": 18,
-      "productos_bajaron": 22,
+      "variacion_pct_promedio": 3.42,
+      "productos_subieron": 17,
+      "productos_bajaron": 20,
       "total_productos": 1104
     },
     {
       "categoria": "Carnes",
-      "variacion_pct_promedio": 1.94,
-      "productos_subieron": 114,
-      "productos_bajaron": 9,
+      "variacion_pct_promedio": 608.33,
+      "productos_subieron": 52,
+      "productos_bajaron": 17,
       "total_productos": 768
     },
     {
       "categoria": "Rotiseria",
-      "variacion_pct_promedio": 1.67,
-      "productos_subieron": 71,
-      "productos_bajaron": 5,
+      "variacion_pct_promedio": 0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
       "total_productos": 192
     },
     {
       "categoria": "Panaderia y Pasteleria",
-      "variacion_pct_promedio": 0.12,
-      "productos_subieron": 28,
-      "productos_bajaron": 16,
+      "variacion_pct_promedio": 0.13,
+      "productos_subieron": 5,
+      "productos_bajaron": 4,
       "total_productos": 383
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.02,
-      "productos_subieron": 8,
-      "productos_bajaron": 1,
+      "variacion_pct_promedio": 0,
+      "productos_subieron": 5,
+      "productos_bajaron": 7,
       "total_productos": 2126
     },
     {
       "categoria": "Perfumería",
-      "variacion_pct_promedio": 0.02,
-      "productos_subieron": 12,
-      "productos_bajaron": 1,
-      "total_productos": 3595
+      "variacion_pct_promedio": 0.06,
+      "productos_subieron": 41,
+      "productos_bajaron": 9,
+      "total_productos": 3596
     },
     {
       "categoria": "Mascotas",
-      "variacion_pct_promedio": -1.6,
-      "productos_subieron": 11,
-      "productos_bajaron": 60,
+      "variacion_pct_promedio": 0,
+      "productos_subieron": 1,
+      "productos_bajaron": 0,
       "total_productos": 229
     },
     {
       "categoria": "Hogar y textil",
-      "variacion_pct_promedio": 2.76,
-      "productos_subieron": 89,
-      "productos_bajaron": 1,
-      "total_productos": 20700
+      "variacion_pct_promedio": 0.04,
+      "productos_subieron": 59,
+      "productos_bajaron": 8,
+      "total_productos": 20701
     },
     {
       "categoria": "Mundo Bebe",
-      "variacion_pct_promedio": 0.08,
+      "variacion_pct_promedio": 129.97,
       "productos_subieron": 3,
       "productos_bajaron": 0,
       "total_productos": 153
@@ -109,108 +109,108 @@
     {
       "categoria": "Electro",
       "variacion_pct_promedio": 0,
-      "productos_subieron": 2,
-      "productos_bajaron": 1,
-      "total_productos": 2954
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 2955
     },
     {
       "categoria": "Tiempo Libre",
       "variacion_pct_promedio": 0,
       "productos_subieron": 1,
-      "productos_bajaron": 0,
+      "productos_bajaron": 5,
       "total_productos": 12470
     }
   ],
   "ranking_baja_dia": [
     {
-      "sku_id": "294086",
-      "nombre": "Cebolla De Verdeo Rocky",
-      "marca": "ROCKY",
-      "categoria": "Verduras Procesadas y Ensaladas Listas",
-      "precio_hoy": 3899.0,
-      "precio_ref": 175396.7,
-      "diff_pct": -97.77703913471576
+      "sku_id": "3081491",
+      "nombre": "Mostaza Doy Pack X 200 Grs Heinz",
+      "marca": "HEINZ",
+      "categoria": "Mostazas",
+      "precio_hoy": 2650.0,
+      "precio_ref": 39489.56,
+      "diff_pct": -93.28936559434949
     },
     {
-      "sku_id": "44293",
-      "nombre": "Radicheta Rocky 100 Gr",
-      "marca": "ROCKY",
-      "categoria": "Verduras Procesadas y Ensaladas Listas",
-      "precio_hoy": 3699.0,
-      "precio_ref": 141867.7,
-      "diff_pct": -97.39264117202154
+      "sku_id": "3081490",
+      "nombre": "Mostaza Doy Pack X 350 Grs Heinz",
+      "marca": "HEINZ",
+      "categoria": "Mostazas",
+      "precio_hoy": 4450.0,
+      "precio_ref": 31711.68,
+      "diff_pct": -85.96731551277006
     },
     {
-      "sku_id": "390652",
-      "nombre": "Grisines Panadería Clásicos 100 Gr",
-      "marca": "FRESH",
-      "categoria": "Galletas y Bizcochos",
-      "precio_hoy": 2000.0,
-      "precio_ref": 7418.23,
-      "diff_pct": -73.03939079807448
+      "sku_id": "3072077",
+      "nombre": "Lampara Led E27 7 W Lc Ar Nex",
+      "marca": "NEX",
+      "categoria": "Lámparas",
+      "precio_hoy": 1308.19,
+      "precio_ref": 4232.98,
+      "diff_pct": -69.09529456789306
     },
     {
-      "sku_id": "24748",
-      "nombre": "Ensalada Hawai Song 500 Gr",
-      "marca": "SONG",
-      "categoria": "Verduras Procesadas y Ensaladas Listas",
-      "precio_hoy": 2999.0,
-      "precio_ref": 9998.39,
-      "diff_pct": -70.00517083250402
+      "sku_id": "3072074",
+      "nombre": "Lampara Led E27 7 W Lf Ar Nex",
+      "marca": "NEX",
+      "categoria": "Lámparas",
+      "precio_hoy": 1308.19,
+      "precio_ref": 4232.98,
+      "diff_pct": -69.09529456789306
     },
     {
-      "sku_id": "19836",
-      "nombre": "Radicheta Roco 100 Gr",
-      "marca": "ROCO",
-      "categoria": "Verduras Empaquetadas",
-      "precio_hoy": 3799.0,
-      "precio_ref": 9997.59,
-      "diff_pct": -62.000842202970915
+      "sku_id": "3072076",
+      "nombre": "Lampara Led E27 9 W Lc Ar Nex",
+      "marca": "NEX",
+      "categoria": "Lámparas",
+      "precio_hoy": 1443.47,
+      "precio_ref": 4434.65,
+      "diff_pct": -67.45019336362508
     },
     {
-      "sku_id": "5344",
-      "nombre": "Paleta Trozo",
+      "sku_id": "3072073",
+      "nombre": "Lampara Led E27 9 W Lf Ar Nex",
+      "marca": "NEX",
+      "categoria": "Lámparas",
+      "precio_hoy": 1443.47,
+      "precio_ref": 4434.65,
+      "diff_pct": -67.45019336362508
+    },
+    {
+      "sku_id": "247573",
+      "nombre": "Bife De Chorizo",
       "marca": "LA HACIENDA",
       "categoria": "Novillito Especial",
-      "precio_hoy": 7596.49,
-      "precio_ref": 17855.0,
-      "diff_pct": -57.45455054606553
+      "precio_hoy": 12939.47,
+      "precio_ref": 32149.0,
+      "diff_pct": -59.75156303462005
     },
     {
-      "sku_id": "247564",
-      "nombre": "Carnaza Comun",
-      "marca": "LA HACIENDA",
-      "categoria": "Novillito Especial",
-      "precio_hoy": 4069.29,
-      "precio_ref": 9485.0,
-      "diff_pct": -57.09762783342119
+      "sku_id": "3072075",
+      "nombre": "Lampara Led E27 13 W Lc Ar Nex",
+      "marca": "NEX",
+      "categoria": "Lámparas",
+      "precio_hoy": 2210.39,
+      "precio_ref": 5442.98,
+      "diff_pct": -59.39007675942223
     },
     {
-      "sku_id": "262616",
-      "nombre": "Pan Multigrano",
-      "marca": "FRESH",
-      "categoria": "Panificados",
-      "precio_hoy": 3399.33,
-      "precio_ref": 7500.0,
-      "diff_pct": -54.6756
+      "sku_id": "3072109",
+      "nombre": "Lampara Led E27 13 W Lf Ar Nex",
+      "marca": "NEX",
+      "categoria": "Lámparas",
+      "precio_hoy": 2210.39,
+      "precio_ref": 5442.98,
+      "diff_pct": -59.39007675942223
     },
     {
-      "sku_id": "148525",
-      "nombre": "Apio Cristal Song 500 Gr",
+      "sku_id": "13300",
+      "nombre": "Puerro Song 300 Gr",
       "marca": "SONG",
       "categoria": "Verduras Empaquetadas",
-      "precio_hoy": 4599.0,
+      "precio_hoy": 4499.0,
       "precio_ref": 9999.99,
-      "diff_pct": -54.00995400995401
-    },
-    {
-      "sku_id": "245591",
-      "nombre": "Apio La Boutique 300 Gr",
-      "marca": "SUEÑO VERDE",
-      "categoria": "Verduras Procesadas y Ensaladas Listas",
-      "precio_hoy": 4599.0,
-      "precio_ref": 9996.49,
-      "diff_pct": -53.993851841996545
+      "diff_pct": -55.009955009955014
     }
   ]
 }

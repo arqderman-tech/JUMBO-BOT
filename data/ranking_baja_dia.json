@@ -1,182 +1,182 @@
 [
   {
-    "sku_id": "294086",
-    "nombre": "Cebolla De Verdeo Rocky",
-    "marca": "ROCKY",
-    "categoria": "Verduras Procesadas y Ensaladas Listas",
-    "precio_hoy": 3899.0,
-    "precio_ref": 175396.7,
-    "diff_pct": -97.77703913471576
+    "sku_id": "3081491",
+    "nombre": "Mostaza Doy Pack X 200 Grs Heinz",
+    "marca": "HEINZ",
+    "categoria": "Mostazas",
+    "precio_hoy": 2650.0,
+    "precio_ref": 39489.56,
+    "diff_pct": -93.28936559434949
   },
   {
-    "sku_id": "44293",
-    "nombre": "Radicheta Rocky 100 Gr",
-    "marca": "ROCKY",
-    "categoria": "Verduras Procesadas y Ensaladas Listas",
-    "precio_hoy": 3699.0,
-    "precio_ref": 141867.7,
-    "diff_pct": -97.39264117202154
+    "sku_id": "3081490",
+    "nombre": "Mostaza Doy Pack X 350 Grs Heinz",
+    "marca": "HEINZ",
+    "categoria": "Mostazas",
+    "precio_hoy": 4450.0,
+    "precio_ref": 31711.68,
+    "diff_pct": -85.96731551277006
   },
   {
-    "sku_id": "390652",
-    "nombre": "Grisines Panadería Clásicos 100 Gr",
-    "marca": "FRESH",
-    "categoria": "Galletas y Bizcochos",
-    "precio_hoy": 2000.0,
-    "precio_ref": 7418.23,
-    "diff_pct": -73.03939079807448
+    "sku_id": "3072077",
+    "nombre": "Lampara Led E27 7 W Lc Ar Nex",
+    "marca": "NEX",
+    "categoria": "Lámparas",
+    "precio_hoy": 1308.19,
+    "precio_ref": 4232.98,
+    "diff_pct": -69.09529456789306
   },
   {
-    "sku_id": "24748",
-    "nombre": "Ensalada Hawai Song 500 Gr",
-    "marca": "SONG",
-    "categoria": "Verduras Procesadas y Ensaladas Listas",
-    "precio_hoy": 2999.0,
-    "precio_ref": 9998.39,
-    "diff_pct": -70.00517083250402
+    "sku_id": "3072074",
+    "nombre": "Lampara Led E27 7 W Lf Ar Nex",
+    "marca": "NEX",
+    "categoria": "Lámparas",
+    "precio_hoy": 1308.19,
+    "precio_ref": 4232.98,
+    "diff_pct": -69.09529456789306
   },
   {
-    "sku_id": "19836",
-    "nombre": "Radicheta Roco 100 Gr",
-    "marca": "ROCO",
-    "categoria": "Verduras Empaquetadas",
-    "precio_hoy": 3799.0,
-    "precio_ref": 9997.59,
-    "diff_pct": -62.000842202970915
+    "sku_id": "3072076",
+    "nombre": "Lampara Led E27 9 W Lc Ar Nex",
+    "marca": "NEX",
+    "categoria": "Lámparas",
+    "precio_hoy": 1443.47,
+    "precio_ref": 4434.65,
+    "diff_pct": -67.45019336362508
   },
   {
-    "sku_id": "5344",
-    "nombre": "Paleta Trozo",
+    "sku_id": "3072073",
+    "nombre": "Lampara Led E27 9 W Lf Ar Nex",
+    "marca": "NEX",
+    "categoria": "Lámparas",
+    "precio_hoy": 1443.47,
+    "precio_ref": 4434.65,
+    "diff_pct": -67.45019336362508
+  },
+  {
+    "sku_id": "247573",
+    "nombre": "Bife De Chorizo",
     "marca": "LA HACIENDA",
     "categoria": "Novillito Especial",
-    "precio_hoy": 7596.49,
-    "precio_ref": 17855.0,
-    "diff_pct": -57.45455054606553
+    "precio_hoy": 12939.47,
+    "precio_ref": 32149.0,
+    "diff_pct": -59.75156303462005
   },
   {
-    "sku_id": "247564",
-    "nombre": "Carnaza Comun",
-    "marca": "LA HACIENDA",
-    "categoria": "Novillito Especial",
-    "precio_hoy": 4069.29,
-    "precio_ref": 9485.0,
-    "diff_pct": -57.09762783342119
+    "sku_id": "3072075",
+    "nombre": "Lampara Led E27 13 W Lc Ar Nex",
+    "marca": "NEX",
+    "categoria": "Lámparas",
+    "precio_hoy": 2210.39,
+    "precio_ref": 5442.98,
+    "diff_pct": -59.39007675942223
   },
   {
-    "sku_id": "262616",
-    "nombre": "Pan Multigrano",
-    "marca": "FRESH",
-    "categoria": "Panificados",
-    "precio_hoy": 3399.33,
-    "precio_ref": 7500.0,
-    "diff_pct": -54.6756
+    "sku_id": "3072109",
+    "nombre": "Lampara Led E27 13 W Lf Ar Nex",
+    "marca": "NEX",
+    "categoria": "Lámparas",
+    "precio_hoy": 2210.39,
+    "precio_ref": 5442.98,
+    "diff_pct": -59.39007675942223
   },
   {
-    "sku_id": "148525",
-    "nombre": "Apio Cristal Song 500 Gr",
+    "sku_id": "13300",
+    "nombre": "Puerro Song 300 Gr",
     "marca": "SONG",
     "categoria": "Verduras Empaquetadas",
-    "precio_hoy": 4599.0,
+    "precio_hoy": 4499.0,
     "precio_ref": 9999.99,
-    "diff_pct": -54.00995400995401
+    "diff_pct": -55.009955009955014
   },
   {
-    "sku_id": "245591",
-    "nombre": "Apio La Boutique 300 Gr",
+    "sku_id": "27415",
+    "nombre": "Chorizo Puro Cerdo Al Vacio - 4 U - 320 Grs - Doina",
+    "marca": "DOINA",
+    "categoria": "Chorizos",
+    "precio_hoy": 3470.63,
+    "precio_ref": 6599.0,
+    "diff_pct": -47.40672829216548
+  },
+  {
+    "sku_id": "391794",
+    "nombre": "Snack Remolacha Y Rawmesan 130 Gr Almadre",
+    "marca": "ALMADRE",
+    "categoria": "Snacks",
+    "precio_hoy": 1550.0,
+    "precio_ref": 2850.0,
+    "diff_pct": -45.614035087719294
+  },
+  {
+    "sku_id": "43620",
+    "nombre": "Aderezo Sueño Verde - Coleslaw X 200grs",
     "marca": "SUEÑO VERDE",
-    "categoria": "Verduras Procesadas y Ensaladas Listas",
-    "precio_hoy": 4599.0,
-    "precio_ref": 9996.49,
-    "diff_pct": -53.993851841996545
-  },
-  {
-    "sku_id": "18772",
-    "nombre": "Acelga Buy & Eat 500 Gr",
-    "marca": "BUY & EAT",
     "categoria": "Verduras Empaquetadas",
-    "precio_hoy": 4899.0,
-    "precio_ref": 9998.85,
-    "diff_pct": -51.004365502032734
+    "precio_hoy": 4293.09,
+    "precio_ref": 7399.0,
+    "diff_pct": -41.977429382348966
   },
   {
-    "sku_id": "10338",
-    "nombre": "Jamón Cocido Bocatti Feteado 130 Gr",
-    "marca": "BOCATTI",
-    "categoria": "Jamón Cocido y Crudo",
-    "precio_hoy": 3885.39,
-    "precio_ref": 6250.0,
-    "diff_pct": -37.83376
+    "sku_id": "43621",
+    "nombre": "Aderezo Mostaza Y Miel Sueño Verde 200 Gr",
+    "marca": "SUEÑO VERDE",
+    "categoria": "Verduras Empaquetadas",
+    "precio_hoy": 4435.87,
+    "precio_ref": 7599.0,
+    "diff_pct": -41.62560863271484
   },
   {
-    "sku_id": "18811",
-    "nombre": "Rúcula Por U",
+    "sku_id": "391796",
+    "nombre": "Snack Sésamo Y Sal Marina 130 Gr Almadre",
+    "marca": "ALMADRE",
+    "categoria": "Snacks",
+    "precio_hoy": 1750.0,
+    "precio_ref": 2950.0,
+    "diff_pct": -40.67796610169492
+  },
+  {
+    "sku_id": "223772",
+    "nombre": "Uva Blanca Cubeta",
+    "marca": "MOÑO AZUL",
+    "categoria": "Frutas Empaquetadas",
+    "precio_hoy": 1983.39,
+    "precio_ref": 3299.0,
+    "diff_pct": -39.87905425886632
+  },
+  {
+    "sku_id": "167707",
+    "nombre": "Melón Amarillo Por Kg",
     "marca": "VERDULERIA PROPIA",
-    "categoria": "Verduras Frescas de Hoja",
-    "precio_hoy": 999.0,
-    "precio_ref": 1546.99,
-    "diff_pct": -35.4229826954279
+    "categoria": "Frutas Sueltas",
+    "precio_hoy": 1657.49,
+    "precio_ref": 2541.49,
+    "diff_pct": -34.78274555477298
   },
   {
-    "sku_id": "43258",
-    "nombre": "Queso Wapi Capricho 150 Gr",
-    "marca": "WAPI",
-    "categoria": "Quesos Especiales e Importados",
-    "precio_hoy": 9153.65,
-    "precio_ref": 13855.0,
-    "diff_pct": -33.93251533742331
-  },
-  {
-    "sku_id": "3072953",
-    "nombre": "Ribbs Bocatti X Kg.",
+    "sku_id": "15515",
+    "nombre": "Lomo Bocatti Feteado 70 Gr",
     "marca": "BOCATTI",
     "categoria": "Otros Fiambres",
-    "precio_hoy": 21288.17,
-    "precio_ref": 31900.0,
-    "diff_pct": -33.265924764890286
+    "precio_hoy": 2230.59,
+    "precio_ref": 3410.0,
+    "diff_pct": -34.58680351906158
   },
   {
-    "sku_id": "31263",
-    "nombre": "Cazuela De Marisco Cazuela (r)",
-    "marca": "ELABORACION PROPIA",
-    "categoria": "Minutas",
-    "precio_hoy": 7597.85,
-    "precio_ref": 11284.87,
-    "diff_pct": -32.67224168289046
+    "sku_id": "19065",
+    "nombre": "Paté Bocatti Panceta 90 Gr",
+    "marca": "BOCATTI",
+    "categoria": "Conservas de Carne",
+    "precio_hoy": 1724.47,
+    "precio_ref": 2555.0,
+    "diff_pct": -32.50606653620352
   },
   {
-    "sku_id": "31775",
-    "nombre": "Arroz (r)",
-    "marca": "FRESH",
-    "categoria": "Minutas",
-    "precio_hoy": 13294.75,
-    "precio_ref": 18778.29,
-    "diff_pct": -29.201487462383426
-  },
-  {
-    "sku_id": "17542",
-    "nombre": "Queso De Cabra Chevrotin Cabaña Piedras Blancas",
-    "marca": "CABAÑA PIEDRAS BLANCAS",
-    "categoria": "Quesos Especiales e Importados",
-    "precio_hoy": 57963.8,
-    "precio_ref": 81795.0,
-    "diff_pct": -29.135277217433824
-  },
-  {
-    "sku_id": "37204",
-    "nombre": "Mortadela Cabaña Argentina 300 Gr",
-    "marca": "CABAÑA ARGENTINA",
-    "categoria": "Otros Fiambres",
-    "precio_hoy": 2958.19,
-    "precio_ref": 4069.0,
-    "diff_pct": -27.299336446301304
-  },
-  {
-    "sku_id": "8854",
-    "nombre": "Mermelada Dulcor Durazno 500 Gr",
-    "marca": "DULCOR",
-    "categoria": "Mermeladas y Jaleas",
-    "precio_hoy": 1800.0,
-    "precio_ref": 2450.0,
-    "diff_pct": -26.53061224489796
+    "sku_id": "29174",
+    "nombre": "Queso En Fetas Sancor Quesabores Dambo 180 Gr",
+    "marca": "SANCOR",
+    "categoria": "Quesos Semiblandos",
+    "precio_hoy": 4999.59,
+    "precio_ref": 7389.0,
+    "diff_pct": -32.337393422655296
   }
 ]
