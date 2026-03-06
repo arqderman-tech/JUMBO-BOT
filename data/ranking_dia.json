@@ -1,182 +1,182 @@
 [
   {
-    "sku_id": "13304",
-    "nombre": "Arañita De Novillito Por Kg",
-    "marca": "LA HACIENDA",
-    "categoria": "Novillito",
-    "precio_hoy": 8181996.69,
-    "precio_ref": 8181.99,
-    "diff_pct": 99900.0817649496
+    "sku_id": "19864",
+    "nombre": "Vegetales Para Wok Song 500 Gr",
+    "marca": "SONG",
+    "categoria": "Verduras Procesadas y Ensaladas Listas",
+    "precio_hoy": 3199.0,
+    "precio_ref": 998.75,
+    "diff_pct": 220.30037546933667
   },
   {
-    "sku_id": "13301",
-    "nombre": "Arañita Por Kg",
-    "marca": "LA HACIENDA",
-    "categoria": "Novillito Especial",
-    "precio_hoy": 8137045.77,
-    "precio_ref": 8137.05,
-    "diff_pct": 99899.94801555846
+    "sku_id": "148739",
+    "nombre": "Ensalada Mix Lechuga Song 250 Gr",
+    "marca": "SONG",
+    "categoria": "Verduras Procesadas y Ensaladas Listas",
+    "precio_hoy": 3199.0,
+    "precio_ref": 998.87,
+    "diff_pct": 220.26189594241492
   },
   {
-    "sku_id": "24473",
-    "nombre": "Falda Deshuesada Novillito Ca   S/e 1 Kg",
-    "marca": "LA HACIENDA",
-    "categoria": "Novillito",
-    "precio_hoy": 3080933.37,
-    "precio_ref": 12323.73,
-    "diff_pct": 24900.007059550968
+    "sku_id": "20291",
+    "nombre": "Cazuela De Hortalizas 1 U",
+    "marca": "SONG",
+    "categoria": "Verduras Procesadas y Ensaladas Listas",
+    "precio_hoy": 2999.0,
+    "precio_ref": 998.79,
+    "diff_pct": 200.2633186155248
   },
   {
-    "sku_id": "347814",
-    "nombre": "Falda Deshuesada Novillito",
-    "marca": "CARNICERIA PROPIA",
-    "categoria": "Novillito",
-    "precio_hoy": 3080933.37,
-    "precio_ref": 12323.73,
-    "diff_pct": 24900.007059550968
+    "sku_id": "19836",
+    "nombre": "Radicheta Roco 100 Gr",
+    "marca": "ROCO",
+    "categoria": "Verduras Empaquetadas",
+    "precio_hoy": 9997.59,
+    "precio_ref": 3799.0,
+    "diff_pct": 163.16372729665702
   },
   {
-    "sku_id": "85571",
-    "nombre": "Jabón De Tocador Johnson´s Baby Dulces Sueños  Pas 80 Gr.",
-    "marca": "JOHNSON BABY",
-    "categoria": "Higiene del Bebé",
-    "precio_hoy": 1900.0,
-    "precio_ref": 9.69,
-    "diff_pct": 19507.843137254902
+    "sku_id": "340111",
+    "nombre": "Arándanos Frescos 300gr",
+    "marca": "VERDULERIA PROPIA",
+    "categoria": "Frutas Empaquetadas",
+    "precio_hoy": 14953.23,
+    "precio_ref": 6499.0,
+    "diff_pct": 130.08509001384826
   },
   {
-    "sku_id": "24435",
-    "nombre": "Peceto",
-    "marca": "CARNICERIA PROPIA",
-    "categoria": "Novillito",
-    "precio_hoy": 2322338.59,
-    "precio_ref": 13933.99,
-    "diff_pct": 16566.71635332019
+    "sku_id": "46153",
+    "nombre": "Brotes De Brocoli",
+    "marca": "SUEÑO VERDE",
+    "categoria": "Verduras Procesadas y Ensaladas Listas",
+    "precio_hoy": 9998.95,
+    "precio_ref": 4799.0,
+    "diff_pct": 108.35486559699939
   },
   {
-    "sku_id": "24469",
-    "nombre": "Entraña Novillito Ca   S/e 1 Kg",
-    "marca": "CARNICERIA PROPIA",
-    "categoria": "Novillito",
-    "precio_hoy": 3883884.69,
-    "precio_ref": 23303.29,
-    "diff_pct": 16566.679640514278
+    "sku_id": "391794",
+    "nombre": "Snack Remolacha Y Rawmesan 130 Gr Almadre",
+    "marca": "ALMADRE",
+    "categoria": "Snacks",
+    "precio_hoy": 2850.0,
+    "precio_ref": 1550.0,
+    "diff_pct": 83.87096774193549
   },
   {
-    "sku_id": "24359",
-    "nombre": "Peceto Milanesa Novillito Ca   S/e 1 Kg",
-    "marca": "CARNICERIA PROPIA",
-    "categoria": "Novillito",
-    "precio_hoy": 45562532.57,
-    "precio_ref": 318937.69,
-    "diff_pct": 14185.715987345367
+    "sku_id": "300104",
+    "nombre": "Queso Camembert La Suerte Edicion Especial X 250",
+    "marca": "LA SUERTE",
+    "categoria": "Quesos Especiales e Importados",
+    "precio_hoy": 15573.0,
+    "precio_ref": 9107.57,
+    "diff_pct": 70.98962731002891
   },
   {
-    "sku_id": "24477",
-    "nombre": "Palomita Novillito Ca   S/e 1 Kg",
-    "marca": "CARNICERIA PROPIA",
-    "categoria": "Novillito",
-    "precio_hoy": 1637454.59,
-    "precio_ref": 13099.63,
-    "diff_pct": 12400.006412394856
+    "sku_id": "10338",
+    "nombre": "Jamón Cocido Bocatti Feteado 130 Gr",
+    "marca": "BOCATTI",
+    "categoria": "Jamón Cocido y Crudo",
+    "precio_hoy": 6625.0,
+    "precio_ref": 3885.39,
+    "diff_pct": 70.51055363811612
   },
   {
-    "sku_id": "39600",
-    "nombre": "Milanesa Super Promo",
-    "marca": "LA HACIENDA",
-    "categoria": "Novillito",
-    "precio_hoy": 2513680.47,
-    "precio_ref": 20109.45,
-    "diff_pct": 12399.996121226588
+    "sku_id": "395325",
+    "nombre": "Hummus Clasico Con Pasta De Mani Kamar 230 Gr",
+    "marca": "KAMAR",
+    "categoria": "Conservas de Carne",
+    "precio_hoy": 3922.0,
+    "precio_ref": 2418.39,
+    "diff_pct": 62.174008327854494
   },
   {
-    "sku_id": "24381",
-    "nombre": "Colita De Cuadril De Novillito Por Kg",
-    "marca": "LA HACIENDA",
-    "categoria": "Novillito",
-    "precio_hoy": 2798394.77,
-    "precio_ref": 25185.55,
-    "diff_pct": 11011.112403739447
+    "sku_id": "343101",
+    "nombre": "Queso Briette Blue X 125 Gr",
+    "marca": "BRIETTE",
+    "categoria": "Quesos Especiales e Importados",
+    "precio_hoy": 13599.0,
+    "precio_ref": 8470.0,
+    "diff_pct": 60.55489964580873
   },
   {
-    "sku_id": "248136",
-    "nombre": "Tapa De Nalga De Novillito Por Kg",
-    "marca": "CA",
-    "categoria": "Novillito",
-    "precio_hoy": 1301820.59,
-    "precio_ref": 14319.99,
-    "diff_pct": 8990.932256237611
+    "sku_id": "343088",
+    "nombre": "Queso Briette Red X 125 Gr",
+    "marca": "BRIETTE",
+    "categoria": "Quesos Especiales e Importados",
+    "precio_hoy": 13599.0,
+    "precio_ref": 8470.0,
+    "diff_pct": 60.55489964580873
   },
   {
-    "sku_id": "240272",
-    "nombre": "Azotillo De Novillito Ca   Bja 1 Kg",
-    "marca": "CA",
-    "categoria": "Novillito",
-    "precio_hoy": 610990.09,
-    "precio_ref": 6720.89,
-    "diff_pct": 8990.910430017451
+    "sku_id": "343095",
+    "nombre": "Queso Briette Mild X 125 Gr",
+    "marca": "BRIETTE",
+    "categoria": "Quesos Especiales e Importados",
+    "precio_hoy": 13599.0,
+    "precio_ref": 8470.0,
+    "diff_pct": 60.55489964580873
   },
   {
-    "sku_id": "248155",
-    "nombre": "Matambre De Novillito",
-    "marca": "CA",
-    "categoria": "Novillito",
-    "precio_hoy": 1354750.27,
-    "precio_ref": 17611.75,
-    "diff_pct": 7592.309225375105
+    "sku_id": "78261",
+    "nombre": "Queso La Vaca Que Rie X 140 Gr",
+    "marca": "LA VACA QUE RIE",
+    "categoria": "Quesos Especiales e Importados",
+    "precio_hoy": 9999.0,
+    "precio_ref": 6352.49,
+    "diff_pct": 57.402845183542205
   },
   {
-    "sku_id": "24444",
-    "nombre": "Bife Ancho Novillito Ca   S/e 1 Kg",
-    "marca": "LA HACIENDA",
-    "categoria": "Novillito",
-    "precio_hoy": 1366596.89,
-    "precio_ref": 19132.35,
-    "diff_pct": 7042.859554628679
+    "sku_id": "11882",
+    "nombre": "Ricota Arrivata Con Crema 300 Gr",
+    "marca": "ARRIVATA",
+    "categoria": "Ricota",
+    "precio_hoy": 4499.0,
+    "precio_ref": 2862.19,
+    "diff_pct": 57.18732858405626
   },
   {
-    "sku_id": "347048",
-    "nombre": "Costeleta Ancha Novillito X Kg",
-    "marca": "LA HACIENDA",
-    "categoria": "Novillito",
-    "precio_hoy": 1366596.89,
-    "precio_ref": 19132.35,
-    "diff_pct": 7042.859554628679
+    "sku_id": "8415",
+    "nombre": "Queso Burrata Wapi 250 Gr",
+    "marca": "WAPI",
+    "categoria": "Quesos Especiales e Importados",
+    "precio_hoy": 12255.0,
+    "precio_ref": 7919.45,
+    "diff_pct": 54.745594706703116
   },
   {
-    "sku_id": "248137",
-    "nombre": "Lomo De Novillito Bandeja 1 Kg",
-    "marca": "CA",
-    "categoria": "Novillito",
-    "precio_hoy": 2181347.25,
-    "precio_ref": 30538.87,
-    "diff_pct": 7042.855154758508
+    "sku_id": "167707",
+    "nombre": "Melón Amarillo Por Kg",
+    "marca": "VERDULERIA PROPIA",
+    "categoria": "Frutas Sueltas",
+    "precio_hoy": 2541.49,
+    "precio_ref": 1657.49,
+    "diff_pct": 53.33365510500816
   },
   {
-    "sku_id": "5301",
-    "nombre": "Paleta Americano",
-    "marca": "LA HACIENDA",
-    "categoria": "Novillito",
-    "precio_hoy": 1650692.29,
-    "precio_ref": 24760.39,
-    "diff_pct": 6566.665145419762
+    "sku_id": "78645",
+    "nombre": "Ensalada Rusa X Kg",
+    "marca": "FRESH",
+    "categoria": "Ensaladas",
+    "precio_hoy": 7509.83,
+    "precio_ref": 4921.67,
+    "diff_pct": 52.58702838670614
   },
   {
-    "sku_id": "43104",
-    "nombre": "Falda Parrillera",
-    "marca": "LA HACIENDA",
-    "categoria": "Novillito",
-    "precio_hoy": 402350.69,
-    "precio_ref": 6035.27,
-    "diff_pct": 6566.656007104901
+    "sku_id": "3072352",
+    "nombre": "Jamon Iberico En Lonchas x 80 Grs Montellano",
+    "marca": "MONTELLANO",
+    "categoria": "Jamón Cocido y Crudo",
+    "precio_hoy": 80000.0,
+    "precio_ref": 52634.99,
+    "diff_pct": 51.99014951840972
   },
   {
-    "sku_id": "24391",
-    "nombre": "Paleta Trozo Novillito Ca   S/e 1 Kg",
-    "marca": "LA HACIENDA",
-    "categoria": "Novillito",
-    "precio_hoy": 825977.15,
-    "precio_ref": 13215.63,
-    "diff_pct": 6150.002080869395
+    "sku_id": "542",
+    "nombre": "Arándano 125 Gr",
+    "marca": "SIN MARCA",
+    "categoria": "Frutas Empaquetadas",
+    "precio_hoy": 4999.0,
+    "precio_ref": 3299.0,
+    "diff_pct": 51.53076689906032
   }
 ]

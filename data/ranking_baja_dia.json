@@ -1,182 +1,182 @@
 [
   {
-    "sku_id": "3081491",
-    "nombre": "Mostaza Doy Pack X 200 Grs Heinz",
-    "marca": "HEINZ",
-    "categoria": "Mostazas",
-    "precio_hoy": 2650.0,
-    "precio_ref": 39489.56,
-    "diff_pct": -93.28936559434949
+    "sku_id": "13304",
+    "nombre": "Arañita De Novillito Por Kg",
+    "marca": "LA HACIENDA",
+    "categoria": "Novillito",
+    "precio_hoy": 8416.09,
+    "precio_ref": 8181996.69,
+    "diff_pct": -99.89713892196649
   },
   {
-    "sku_id": "3081490",
-    "nombre": "Mostaza Doy Pack X 350 Grs Heinz",
-    "marca": "HEINZ",
-    "categoria": "Mostazas",
-    "precio_hoy": 4450.0,
-    "precio_ref": 31711.68,
-    "diff_pct": -85.96731551277006
-  },
-  {
-    "sku_id": "3072077",
-    "nombre": "Lampara Led E27 7 W Lc Ar Nex",
-    "marca": "NEX",
-    "categoria": "Lámparas",
-    "precio_hoy": 1308.19,
-    "precio_ref": 4232.98,
-    "diff_pct": -69.09529456789306
-  },
-  {
-    "sku_id": "3072074",
-    "nombre": "Lampara Led E27 7 W Lf Ar Nex",
-    "marca": "NEX",
-    "categoria": "Lámparas",
-    "precio_hoy": 1308.19,
-    "precio_ref": 4232.98,
-    "diff_pct": -69.09529456789306
-  },
-  {
-    "sku_id": "3072076",
-    "nombre": "Lampara Led E27 9 W Lc Ar Nex",
-    "marca": "NEX",
-    "categoria": "Lámparas",
-    "precio_hoy": 1443.47,
-    "precio_ref": 4434.65,
-    "diff_pct": -67.45019336362508
-  },
-  {
-    "sku_id": "3072073",
-    "nombre": "Lampara Led E27 9 W Lf Ar Nex",
-    "marca": "NEX",
-    "categoria": "Lámparas",
-    "precio_hoy": 1443.47,
-    "precio_ref": 4434.65,
-    "diff_pct": -67.45019336362508
-  },
-  {
-    "sku_id": "247573",
-    "nombre": "Bife De Chorizo",
+    "sku_id": "13301",
+    "nombre": "Arañita Por Kg",
     "marca": "LA HACIENDA",
     "categoria": "Novillito Especial",
-    "precio_hoy": 12939.47,
-    "precio_ref": 32149.0,
-    "diff_pct": -59.75156303462005
+    "precio_hoy": 8369.87,
+    "precio_ref": 8137045.77,
+    "diff_pct": -99.89713871303442
   },
   {
-    "sku_id": "3072075",
-    "nombre": "Lampara Led E27 13 W Lc Ar Nex",
-    "marca": "NEX",
-    "categoria": "Lámparas",
-    "precio_hoy": 2210.39,
-    "precio_ref": 5442.98,
-    "diff_pct": -59.39007675942223
+    "sku_id": "24473",
+    "nombre": "Falda Deshuesada Novillito Ca   S/e 1 Kg",
+    "marca": "LA HACIENDA",
+    "categoria": "Novillito",
+    "precio_hoy": 12680.39,
+    "precio_ref": 3080933.37,
+    "diff_pct": -99.5884237509492
   },
   {
-    "sku_id": "3072109",
-    "nombre": "Lampara Led E27 13 W Lf Ar Nex",
-    "marca": "NEX",
-    "categoria": "Lámparas",
-    "precio_hoy": 2210.39,
-    "precio_ref": 5442.98,
-    "diff_pct": -59.39007675942223
+    "sku_id": "347814",
+    "nombre": "Falda Deshuesada Novillito",
+    "marca": "CARNICERIA PROPIA",
+    "categoria": "Novillito",
+    "precio_hoy": 12680.39,
+    "precio_ref": 3080933.37,
+    "diff_pct": -99.5884237509492
   },
   {
-    "sku_id": "13300",
-    "nombre": "Puerro Song 300 Gr",
-    "marca": "SONG",
-    "categoria": "Verduras Empaquetadas",
-    "precio_hoy": 4499.0,
-    "precio_ref": 9999.99,
-    "diff_pct": -55.009955009955014
+    "sku_id": "24469",
+    "nombre": "Entraña Novillito Ca   S/e 1 Kg",
+    "marca": "CARNICERIA PROPIA",
+    "categoria": "Novillito",
+    "precio_hoy": 23976.49,
+    "precio_ref": 3883884.69,
+    "diff_pct": -99.38266730570726
   },
   {
-    "sku_id": "27415",
-    "nombre": "Chorizo Puro Cerdo Al Vacio - 4 U - 320 Grs - Doina",
-    "marca": "DOINA",
-    "categoria": "Chorizos",
-    "precio_hoy": 3470.63,
-    "precio_ref": 6599.0,
-    "diff_pct": -47.40672829216548
+    "sku_id": "24477",
+    "nombre": "Palomita Novillito Ca   S/e 1 Kg",
+    "marca": "CARNICERIA PROPIA",
+    "categoria": "Novillito",
+    "precio_hoy": 13471.39,
+    "precio_ref": 1637454.59,
+    "diff_pct": -99.17729688003135
   },
   {
-    "sku_id": "391794",
-    "nombre": "Snack Remolacha Y Rawmesan 130 Gr Almadre",
-    "marca": "ALMADRE",
-    "categoria": "Snacks",
-    "precio_hoy": 1550.0,
-    "precio_ref": 2850.0,
-    "diff_pct": -45.614035087719294
+    "sku_id": "39600",
+    "nombre": "Milanesa Super Promo",
+    "marca": "LA HACIENDA",
+    "categoria": "Novillito",
+    "precio_hoy": 20687.89,
+    "precio_ref": 2513680.47,
+    "diff_pct": -99.1769880759745
   },
   {
-    "sku_id": "43620",
-    "nombre": "Aderezo Sueño Verde - Coleslaw X 200grs",
-    "marca": "SUEÑO VERDE",
-    "categoria": "Verduras Empaquetadas",
-    "precio_hoy": 4293.09,
-    "precio_ref": 7399.0,
-    "diff_pct": -41.977429382348966
+    "sku_id": "24381",
+    "nombre": "Colita De Cuadril De Novillito Por Kg",
+    "marca": "LA HACIENDA",
+    "categoria": "Novillito",
+    "precio_hoy": 25910.09,
+    "precio_ref": 2798394.77,
+    "diff_pct": -99.07410883275773
   },
   {
-    "sku_id": "43621",
-    "nombre": "Aderezo Mostaza Y Miel Sueño Verde 200 Gr",
-    "marca": "SUEÑO VERDE",
-    "categoria": "Verduras Empaquetadas",
-    "precio_hoy": 4435.87,
-    "precio_ref": 7599.0,
-    "diff_pct": -41.62560863271484
+    "sku_id": "248136",
+    "nombre": "Tapa De Nalga De Novillito Por Kg",
+    "marca": "CA",
+    "categoria": "Novillito",
+    "precio_hoy": 14731.87,
+    "precio_ref": 1301820.59,
+    "diff_pct": -98.86836403470926
   },
   {
-    "sku_id": "391796",
-    "nombre": "Snack Sésamo Y Sal Marina 130 Gr Almadre",
-    "marca": "ALMADRE",
-    "categoria": "Snacks",
-    "precio_hoy": 1750.0,
-    "precio_ref": 2950.0,
-    "diff_pct": -40.67796610169492
+    "sku_id": "240272",
+    "nombre": "Azotillo De Novillito Ca   Bja 1 Kg",
+    "marca": "CA",
+    "categoria": "Novillito",
+    "precio_hoy": 6914.49,
+    "precio_ref": 610990.09,
+    "diff_pct": -98.86831388705502
   },
   {
-    "sku_id": "223772",
-    "nombre": "Uva Blanca Cubeta",
-    "marca": "MOÑO AZUL",
-    "categoria": "Frutas Empaquetadas",
-    "precio_hoy": 1983.39,
-    "precio_ref": 3299.0,
-    "diff_pct": -39.87905425886632
+    "sku_id": "248155",
+    "nombre": "Matambre De Novillito",
+    "marca": "CA",
+    "categoria": "Novillito",
+    "precio_hoy": 18999.0,
+    "precio_ref": 1354750.27,
+    "diff_pct": -98.59760131289732
   },
   {
-    "sku_id": "167707",
-    "nombre": "Melón Amarillo Por Kg",
-    "marca": "VERDULERIA PROPIA",
-    "categoria": "Frutas Sueltas",
-    "precio_hoy": 1657.49,
-    "precio_ref": 2541.49,
-    "diff_pct": -34.78274555477298
+    "sku_id": "24444",
+    "nombre": "Bife Ancho Novillito Ca   S/e 1 Kg",
+    "marca": "LA HACIENDA",
+    "categoria": "Novillito",
+    "precio_hoy": 19677.77,
+    "precio_ref": 1366596.89,
+    "diff_pct": -98.56008965452862
   },
   {
-    "sku_id": "15515",
-    "nombre": "Lomo Bocatti Feteado 70 Gr",
-    "marca": "BOCATTI",
-    "categoria": "Otros Fiambres",
-    "precio_hoy": 2230.59,
-    "precio_ref": 3410.0,
-    "diff_pct": -34.58680351906158
+    "sku_id": "347048",
+    "nombre": "Costeleta Ancha Novillito X Kg",
+    "marca": "LA HACIENDA",
+    "categoria": "Novillito",
+    "precio_hoy": 19677.77,
+    "precio_ref": 1366596.89,
+    "diff_pct": -98.56008965452862
   },
   {
-    "sku_id": "19065",
-    "nombre": "Paté Bocatti Panceta 90 Gr",
-    "marca": "BOCATTI",
-    "categoria": "Conservas de Carne",
-    "precio_hoy": 1724.47,
-    "precio_ref": 2555.0,
-    "diff_pct": -32.50606653620352
+    "sku_id": "248137",
+    "nombre": "Lomo De Novillito Bandeja 1 Kg",
+    "marca": "CA",
+    "categoria": "Novillito",
+    "precio_hoy": 31418.29,
+    "precio_ref": 2181347.25,
+    "diff_pct": -98.55968415849425
   },
   {
-    "sku_id": "29174",
-    "nombre": "Queso En Fetas Sancor Quesabores Dambo 180 Gr",
-    "marca": "SANCOR",
-    "categoria": "Quesos Semiblandos",
-    "precio_hoy": 4999.59,
-    "precio_ref": 7389.0,
-    "diff_pct": -32.337393422655296
+    "sku_id": "5301",
+    "nombre": "Paleta Americano",
+    "marca": "LA HACIENDA",
+    "categoria": "Novillito",
+    "precio_hoy": 25474.09,
+    "precio_ref": 1650692.29,
+    "diff_pct": -98.45676325295007
+  },
+  {
+    "sku_id": "43104",
+    "nombre": "Falda Parrillera",
+    "marca": "LA HACIENDA",
+    "categoria": "Novillito",
+    "precio_hoy": 6209.55,
+    "precio_ref": 402350.69,
+    "diff_pct": -98.45668215456521
+  },
+  {
+    "sku_id": "24440",
+    "nombre": "Ojo De Bife",
+    "marca": "LA HACIENDA",
+    "categoria": "Novillito",
+    "precio_hoy": 33477.79,
+    "precio_ref": 2034178.09,
+    "diff_pct": -98.3542350512683
+  },
+  {
+    "sku_id": "24391",
+    "nombre": "Paleta Trozo Novillito Ca   S/e 1 Kg",
+    "marca": "LA HACIENDA",
+    "categoria": "Novillito",
+    "precio_hoy": 13595.27,
+    "precio_ref": 825977.15,
+    "diff_pct": -98.35403800214085
+  },
+  {
+    "sku_id": "347047",
+    "nombre": "Jamón Cuadrado Novillito Kg",
+    "marca": "LA HACIENDA",
+    "categoria": "Novillito",
+    "precio_hoy": 14413.25,
+    "precio_ref": 802527.93,
+    "diff_pct": -98.2040188931493
+  },
+  {
+    "sku_id": "24405",
+    "nombre": "Carnaza Comun Novillito Ca   S/e 1 Kg",
+    "marca": "LA HACIENDA",
+    "categoria": "Novillito",
+    "precio_hoy": 7575.67,
+    "precio_ref": 420055.39,
+    "diff_pct": -98.19650689400748
   }
 ]

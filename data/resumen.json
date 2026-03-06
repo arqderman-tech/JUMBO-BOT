@@ -1,108 +1,108 @@
 {
-  "fecha_actualizacion": "2026-03-05",
-  "total_productos": 58286,
-  "variacion_dia": 8.47,
+  "fecha_actualizacion": "2026-03-06",
+  "total_productos": 58334,
+  "variacion_dia": -0.02,
   "variacion_mes": null,
   "variacion_anio": null,
-  "productos_subieron_dia": 603,
-  "productos_bajaron_dia": 293,
-  "productos_sin_cambio_dia": 57299,
+  "productos_subieron_dia": 235,
+  "productos_bajaron_dia": 191,
+  "productos_sin_cambio_dia": 57779,
   "categorias_dia": [
     {
       "categoria": "Almacén",
-      "variacion_pct_promedio": 0.09,
-      "productos_subieron": 253,
-      "productos_bajaron": 131,
-      "total_productos": 8115
+      "variacion_pct_promedio": 0,
+      "productos_subieron": 11,
+      "productos_bajaron": 18,
+      "total_productos": 8066
     },
     {
       "categoria": "Bebidas",
-      "variacion_pct_promedio": -0.03,
-      "productos_subieron": 20,
-      "productos_bajaron": 29,
-      "total_productos": 2439
+      "variacion_pct_promedio": -0.07,
+      "productos_subieron": 6,
+      "productos_bajaron": 22,
+      "total_productos": 2443
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.01,
-      "productos_subieron": 6,
-      "productos_bajaron": 3,
-      "total_productos": 436
+      "variacion_pct_promedio": -0.11,
+      "productos_subieron": 7,
+      "productos_bajaron": 8,
+      "total_productos": 437
     },
     {
       "categoria": "Lácteos",
-      "variacion_pct_promedio": -0.01,
-      "productos_subieron": 60,
-      "productos_bajaron": 52,
-      "total_productos": 992
+      "variacion_pct_promedio": 0.09,
+      "productos_subieron": 19,
+      "productos_bajaron": 7,
+      "total_productos": 993
     },
     {
       "categoria": "Quesos y Fiambres",
-      "variacion_pct_promedio": 0.19,
-      "productos_subieron": 80,
-      "productos_bajaron": 8,
-      "total_productos": 1536
+      "variacion_pct_promedio": 0.59,
+      "productos_subieron": 33,
+      "productos_bajaron": 7,
+      "total_productos": 1537
     },
     {
       "categoria": "Frutas y Verduras",
-      "variacion_pct_promedio": 3.42,
-      "productos_subieron": 17,
-      "productos_bajaron": 20,
-      "total_productos": 1104
+      "variacion_pct_promedio": 1.05,
+      "productos_subieron": 46,
+      "productos_bajaron": 21,
+      "total_productos": 1105
     },
     {
       "categoria": "Carnes",
-      "variacion_pct_promedio": 608.33,
-      "productos_subieron": 52,
-      "productos_bajaron": 17,
+      "variacion_pct_promedio": -4.41,
+      "productos_subieron": 68,
+      "productos_bajaron": 54,
       "total_productos": 768
     },
     {
       "categoria": "Rotiseria",
-      "variacion_pct_promedio": 0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
+      "variacion_pct_promedio": 1.23,
+      "productos_subieron": 40,
+      "productos_bajaron": 46,
       "total_productos": 192
     },
     {
       "categoria": "Panaderia y Pasteleria",
-      "variacion_pct_promedio": 0.13,
-      "productos_subieron": 5,
-      "productos_bajaron": 4,
+      "variacion_pct_promedio": -0.15,
+      "productos_subieron": 2,
+      "productos_bajaron": 2,
       "total_productos": 383
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": 0,
-      "productos_subieron": 5,
-      "productos_bajaron": 7,
-      "total_productos": 2126
+      "productos_subieron": 1,
+      "productos_bajaron": 3,
+      "total_productos": 2131
     },
     {
       "categoria": "Perfumería",
-      "variacion_pct_promedio": 0.06,
-      "productos_subieron": 41,
-      "productos_bajaron": 9,
-      "total_productos": 3596
+      "variacion_pct_promedio": 0,
+      "productos_subieron": 1,
+      "productos_bajaron": 3,
+      "total_productos": 3612
     },
     {
       "categoria": "Mascotas",
       "variacion_pct_promedio": 0,
-      "productos_subieron": 1,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
       "total_productos": 229
     },
     {
       "categoria": "Hogar y textil",
-      "variacion_pct_promedio": 0.04,
-      "productos_subieron": 59,
-      "productos_bajaron": 8,
-      "total_productos": 20701
+      "variacion_pct_promedio": 0,
+      "productos_subieron": 1,
+      "productos_bajaron": 0,
+      "total_productos": 20697
     },
     {
       "categoria": "Mundo Bebe",
-      "variacion_pct_promedio": 129.97,
-      "productos_subieron": 3,
+      "variacion_pct_promedio": 0,
+      "productos_subieron": 0,
       "productos_bajaron": 0,
       "total_productos": 153
     },
@@ -111,106 +111,106 @@
       "variacion_pct_promedio": 0,
       "productos_subieron": 0,
       "productos_bajaron": 0,
-      "total_productos": 2955
+      "total_productos": 2988
     },
     {
       "categoria": "Tiempo Libre",
       "variacion_pct_promedio": 0,
-      "productos_subieron": 1,
-      "productos_bajaron": 5,
-      "total_productos": 12470
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "total_productos": 12471
     }
   ],
   "ranking_baja_dia": [
     {
-      "sku_id": "3081491",
-      "nombre": "Mostaza Doy Pack X 200 Grs Heinz",
-      "marca": "HEINZ",
-      "categoria": "Mostazas",
-      "precio_hoy": 2650.0,
-      "precio_ref": 39489.56,
-      "diff_pct": -93.28936559434949
+      "sku_id": "13304",
+      "nombre": "Arañita De Novillito Por Kg",
+      "marca": "LA HACIENDA",
+      "categoria": "Novillito",
+      "precio_hoy": 8416.09,
+      "precio_ref": 8181996.69,
+      "diff_pct": -99.89713892196649
     },
     {
-      "sku_id": "3081490",
-      "nombre": "Mostaza Doy Pack X 350 Grs Heinz",
-      "marca": "HEINZ",
-      "categoria": "Mostazas",
-      "precio_hoy": 4450.0,
-      "precio_ref": 31711.68,
-      "diff_pct": -85.96731551277006
-    },
-    {
-      "sku_id": "3072077",
-      "nombre": "Lampara Led E27 7 W Lc Ar Nex",
-      "marca": "NEX",
-      "categoria": "Lámparas",
-      "precio_hoy": 1308.19,
-      "precio_ref": 4232.98,
-      "diff_pct": -69.09529456789306
-    },
-    {
-      "sku_id": "3072074",
-      "nombre": "Lampara Led E27 7 W Lf Ar Nex",
-      "marca": "NEX",
-      "categoria": "Lámparas",
-      "precio_hoy": 1308.19,
-      "precio_ref": 4232.98,
-      "diff_pct": -69.09529456789306
-    },
-    {
-      "sku_id": "3072076",
-      "nombre": "Lampara Led E27 9 W Lc Ar Nex",
-      "marca": "NEX",
-      "categoria": "Lámparas",
-      "precio_hoy": 1443.47,
-      "precio_ref": 4434.65,
-      "diff_pct": -67.45019336362508
-    },
-    {
-      "sku_id": "3072073",
-      "nombre": "Lampara Led E27 9 W Lf Ar Nex",
-      "marca": "NEX",
-      "categoria": "Lámparas",
-      "precio_hoy": 1443.47,
-      "precio_ref": 4434.65,
-      "diff_pct": -67.45019336362508
-    },
-    {
-      "sku_id": "247573",
-      "nombre": "Bife De Chorizo",
+      "sku_id": "13301",
+      "nombre": "Arañita Por Kg",
       "marca": "LA HACIENDA",
       "categoria": "Novillito Especial",
-      "precio_hoy": 12939.47,
-      "precio_ref": 32149.0,
-      "diff_pct": -59.75156303462005
+      "precio_hoy": 8369.87,
+      "precio_ref": 8137045.77,
+      "diff_pct": -99.89713871303442
     },
     {
-      "sku_id": "3072075",
-      "nombre": "Lampara Led E27 13 W Lc Ar Nex",
-      "marca": "NEX",
-      "categoria": "Lámparas",
-      "precio_hoy": 2210.39,
-      "precio_ref": 5442.98,
-      "diff_pct": -59.39007675942223
+      "sku_id": "24473",
+      "nombre": "Falda Deshuesada Novillito Ca   S/e 1 Kg",
+      "marca": "LA HACIENDA",
+      "categoria": "Novillito",
+      "precio_hoy": 12680.39,
+      "precio_ref": 3080933.37,
+      "diff_pct": -99.5884237509492
     },
     {
-      "sku_id": "3072109",
-      "nombre": "Lampara Led E27 13 W Lf Ar Nex",
-      "marca": "NEX",
-      "categoria": "Lámparas",
-      "precio_hoy": 2210.39,
-      "precio_ref": 5442.98,
-      "diff_pct": -59.39007675942223
+      "sku_id": "347814",
+      "nombre": "Falda Deshuesada Novillito",
+      "marca": "CARNICERIA PROPIA",
+      "categoria": "Novillito",
+      "precio_hoy": 12680.39,
+      "precio_ref": 3080933.37,
+      "diff_pct": -99.5884237509492
     },
     {
-      "sku_id": "13300",
-      "nombre": "Puerro Song 300 Gr",
-      "marca": "SONG",
-      "categoria": "Verduras Empaquetadas",
-      "precio_hoy": 4499.0,
-      "precio_ref": 9999.99,
-      "diff_pct": -55.009955009955014
+      "sku_id": "24469",
+      "nombre": "Entraña Novillito Ca   S/e 1 Kg",
+      "marca": "CARNICERIA PROPIA",
+      "categoria": "Novillito",
+      "precio_hoy": 23976.49,
+      "precio_ref": 3883884.69,
+      "diff_pct": -99.38266730570726
+    },
+    {
+      "sku_id": "24477",
+      "nombre": "Palomita Novillito Ca   S/e 1 Kg",
+      "marca": "CARNICERIA PROPIA",
+      "categoria": "Novillito",
+      "precio_hoy": 13471.39,
+      "precio_ref": 1637454.59,
+      "diff_pct": -99.17729688003135
+    },
+    {
+      "sku_id": "39600",
+      "nombre": "Milanesa Super Promo",
+      "marca": "LA HACIENDA",
+      "categoria": "Novillito",
+      "precio_hoy": 20687.89,
+      "precio_ref": 2513680.47,
+      "diff_pct": -99.1769880759745
+    },
+    {
+      "sku_id": "24381",
+      "nombre": "Colita De Cuadril De Novillito Por Kg",
+      "marca": "LA HACIENDA",
+      "categoria": "Novillito",
+      "precio_hoy": 25910.09,
+      "precio_ref": 2798394.77,
+      "diff_pct": -99.07410883275773
+    },
+    {
+      "sku_id": "248136",
+      "nombre": "Tapa De Nalga De Novillito Por Kg",
+      "marca": "CA",
+      "categoria": "Novillito",
+      "precio_hoy": 14731.87,
+      "precio_ref": 1301820.59,
+      "diff_pct": -98.86836403470926
+    },
+    {
+      "sku_id": "240272",
+      "nombre": "Azotillo De Novillito Ca   Bja 1 Kg",
+      "marca": "CA",
+      "categoria": "Novillito",
+      "precio_hoy": 6914.49,
+      "precio_ref": 610990.09,
+      "diff_pct": -98.86831388705502
     }
   ]
 }
